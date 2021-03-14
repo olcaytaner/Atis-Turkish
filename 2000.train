@@ -1,1 +1,1 @@
-{turkish=boston'daki}{slot=B-city_name} {turkish=karayolu}{slot=O} {turkish=ulaşım}{slot=O} {turkish=olanakları}{slot=O} {turkish=ne}{slot=O}
+{turkish=Boston'daki}{morphologicalAnalysis=boston+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL}{metaMorphemes=boston+'DA+ki}{slot=B-city_name} {turkish=karayolu}{slot=O} {turkish=ulaşım}{slot=O} {turkish=olanakları}{slot=O} {turkish=ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne}{slot=O}

@@ -1,1 +1,1 @@
-{turkish=Continental}{slot=B-airline_name} {turkish=Chicago'dan}{slot=B-fromloc.city_name} {turkish=nereye}{slot=O} {turkish=uçuyor}{slot=O}
+{turkish=Continental}{morphologicalAnalysis=Continental+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Continental}{slot=B-airline_name} {turkish=Chicago'dan}{morphologicalAnalysis=chicago+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=chicago+'DAn}{slot=B-fromloc.city_name} {turkish=nereye}{morphologicalAnalysis=nereye+ADV}{metaMorphemes=nereye}{slot=O} {turkish=uçuyor}{morphologicalAnalysis=uç+VERB+POS+PROG1+A3SG}{metaMorphemes=uç+Hyor}{slot=O}
