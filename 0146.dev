@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Oakland’den}{slot=B-fromloc.city_name} {turkish=Philadelphia’ya}{slot=B-fromloc.city_name} {turkish=giden}{slot=O} {turkish=ve}{slot=O} {turkish=yemek}{slot=B-meal} {turkish=servisi}{slot=O} {turkish=yapan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

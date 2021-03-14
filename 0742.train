@@ -1,0 +1,1 @@
+{turkish=Ontario}{slot=B-fromloc.city_name} {turkish=California'dan}{slot=B-fromloc.state_name} {turkish=Orlando}{slot=B-toloc.city_name} {turkish=Florida'ya}{slot=B-toloc.state_name} {turkish=en}{slot=B-flight_mod} {turkish=kısa}{slot=I-flight_mod} {turkish=uçuş}{slot=O}

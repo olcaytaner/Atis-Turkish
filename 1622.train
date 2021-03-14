@@ -1,0 +1,1 @@
+{turkish=columbus'tan}{slot=B-fromloc.city_name} {turkish=st.}{slot=B-toloc.city_name} {turkish=paul'a}{slot=I-toloc.city_name} {turkish=ekonomi}{slot=B-class_type} {turkish=sınıfı}{slot=I-class_type} {turkish=twa}{slot=B-airline_code} {turkish=uçuşları}{slot=O}

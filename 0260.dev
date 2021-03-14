@@ -1,0 +1,1 @@
+{turkish=Toronto}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=St.}{slot=B-toloc.city_name} {turkish=Petersburg}{slot=I-toloc.city_name} {turkish=arası}{slot=O} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

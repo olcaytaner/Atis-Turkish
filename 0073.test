@@ -1,0 +1,1 @@
+{turkish=şehir}{slot=O} {turkish=merkezinden}{slot=O} {turkish=logan}{slot=B-toloc.airport_name} {turkish=havaalanına}{slot=I-toloc.airport_name} {turkish=gitmek}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O} {turkish=tutar}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Phoenix}{slot=B-fromloc.city_name} {turkish=Arizona'dan}{slot=B-fromloc.state_name} {turkish=St.Paul}{slot=B-toloc.city_name} {turkish=Minnesota'ya}{slot=B-toloc.state_name} {turkish=salı}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=olan}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=neler}{slot=O}

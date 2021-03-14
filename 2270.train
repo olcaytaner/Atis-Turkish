@@ -1,0 +1,1 @@
+{turkish=Baltimore'den}{slot=B-fromloc.city_name} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=akşam}{slot=B-depart_time.period_of_day} {turkish=4'ten}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

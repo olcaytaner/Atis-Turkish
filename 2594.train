@@ -1,0 +1,1 @@
+{turkish=cleveland}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=miami}{slot=B-toloc.city_name} {turkish=amerikan}{slot=B-airline_name} {turkish=havayollarında}{slot=I-airline_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=uçuş}{slot=O} {turkish=nedir}{slot=O}

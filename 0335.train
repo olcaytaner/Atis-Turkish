@@ -1,0 +1,1 @@
+{turkish=La}{slot=B-fromloc.airport_name} {turkish=Guardia}{slot=I-fromloc.airport_name} {turkish=ile}{slot=O} {turkish=New}{slot=B-toloc.city_name} {turkish=York}{slot=I-toloc.city_name} {turkish=şehir}{slot=O} {turkish=merkezi}{slot=O} {turkish=arasındaki}{slot=O} {turkish=mesafe}{slot=O} {turkish=ne}{slot=O} {turkish=kadardır}{slot=O}

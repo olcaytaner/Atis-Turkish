@@ -1,0 +1,1 @@
+{turkish=nashville'den}{slot=B-fromloc.city_name} {turkish=tacoma'ya}{slot=B-toloc.city_name} {turkish=uçmam}{slot=O} {turkish=lazım}{slot=O} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=ilk}{slot=O} {turkish=iş}{slot=O} {turkish=neler}{slot=O} {turkish=var}{slot=O}

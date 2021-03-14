@@ -1,0 +1,1 @@
+{turkish=hem}{slot=O} {turkish=Nationair}{slot=B-airline_name} {turkish=hem}{slot=O} {turkish=de}{slot=O} {turkish=Canadian}{slot=B-airline_name} {turkish=Airlies}{slot=I-airline_name} {turkish=International}{slot=I-airline_name} {turkish=tarafından}{slot=O} {turkish=hizmet}{slot=O} {turkish=verilen}{slot=O} {turkish=bir}{slot=O} {turkish=şehir}{slot=O} {turkish=göster}{slot=O}

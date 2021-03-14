@@ -1,0 +1,1 @@
+{turkish=yarın}{slot=B-depart_date.today_relative} {turkish=Columbus'tan}{slot=B-fromloc.city_name} {turkish=Houston'a}{slot=B-toloc.city_name} {turkish=Nashville'de}{slot=B-stoploc.city_name} {turkish=mola}{slot=O} {turkish=veren}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

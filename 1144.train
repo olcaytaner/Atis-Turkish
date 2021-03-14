@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Charlotte'den}{slot=B-fromloc.city_name} {turkish=Minneapolis'e}{slot=B-toloc.city_name} {turkish=yapılacak}{slot=O} {turkish=1500}{slot=B-flight_number} {turkish=numaralı}{slot=O} {turkish=uçuşu}{slot=O} {turkish=göster}{slot=O} {turkish=lütfen}{slot=O}

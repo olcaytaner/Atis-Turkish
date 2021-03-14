@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=Continental}{slot=B-airline_name} {turkish=ile}{slot=O} {turkish=Chicago'dan}{slot=B-fromloc.city_name} {turkish=Minneapolis'e}{slot=B-toloc.city_name} {turkish=hiç}{slot=O} {turkish=uçuş}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=boston'a}{slot=B-toloc.city_name} {turkish=tek}{slot=B-round_trip} {turkish=yön}{slot=I-round_trip} {turkish=ekonomi}{slot=B-class_type} {turkish=sınıfı}{slot=O} {turkish=bilet}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

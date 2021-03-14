@@ -1,0 +1,1 @@
+{turkish=dallas'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşun}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=fiyata}{slot=O} {turkish=sahip}{slot=O} {turkish=olduğunu}{slot=O} {turkish=söyleyebilir}{slot=O} {turkish=misin}{slot=O}

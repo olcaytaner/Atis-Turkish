@@ -1,0 +1,1 @@
+{turkish=minneapolis'ten}{slot=B-fromloc.city_name} {turkish=long}{slot=B-toloc.city_name} {turkish=Beach'a}{slot=I-toloc.city_name} {turkish=26}{slot=B-depart_date.day_number} {turkish=haziranda}{slot=B-depart_date.month_name} {turkish=uçuş}{slot=O} {turkish=numaraları}{slot=O}

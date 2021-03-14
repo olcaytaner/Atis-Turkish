@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=Dallas'tan}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name}

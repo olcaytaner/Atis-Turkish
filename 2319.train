@@ -1,0 +1,1 @@
+{turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=saat}{slot=O} {turkish=9'da}{slot=B-depart_time.time} {turkish=uçuşunuz}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

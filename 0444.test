@@ -1,0 +1,1 @@
+{turkish=cuma}{slot=B-depart_date.day_name} {turkish=akşamı}{slot=B-depart_time.period_of_day} {turkish=newark'tan}{slot=B-fromloc.city_name} {turkish=los}{slot=B-toloc.city_name} {turkish=angeles'e}{slot=I-toloc.city_name} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

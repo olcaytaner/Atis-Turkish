@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Pazar}{slot=B-depart_date.day_name} {turkish=Philadelphia'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşa}{slot=O} {turkish=rezervasyon}{slot=O} {turkish=yapmakla}{slot=O} {turkish=ilgili}{slot=O} {turkish=bilgi}{slot=O} {turkish=gösterin}{slot=O}

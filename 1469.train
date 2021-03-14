@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Washington}{slot=B-toloc.city_name} {turkish=DC'ye}{slot=B-toloc.state_code} {turkish=tüm}{slot=O} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=ücretlerini}{slot=O} {turkish=listele}{slot=O}

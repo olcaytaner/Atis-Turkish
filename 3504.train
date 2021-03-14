@@ -1,0 +1,1 @@
+{turkish=Continental'ın}{slot=B-airline_name} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşları}{slot=O} {turkish=var}{slot=O}

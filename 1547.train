@@ -1,0 +1,1 @@
+{turkish=23}{slot=B-depart_date.day_number} {turkish=temmuz}{slot=B-depart_date.month_name} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=pittsburgh'a}{slot=B-toloc.city_name}

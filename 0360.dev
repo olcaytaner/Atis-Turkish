@@ -1,0 +1,1 @@
+{turkish=İndianapolis'ten}{slot=B-fromloc.city_name} {turkish=Seattle'ye}{slot=B-toloc.city_name} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=en}{slot=B-cost_relative} {turkish=uygun}{slot=O} {turkish=tarifeyle}{slot=O} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

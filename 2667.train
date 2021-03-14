@@ -1,0 +1,1 @@
+{turkish=memphis'ten}{slot=B-fromloc.city_name} {turkish=miami'ye}{slot=B-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=uçuş}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=İyi}{slot=O} {turkish=bana}{slot=O} {turkish=Washington}{slot=B-city_name} {turkish=DC'de}{slot=B-state_code} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=giden}{slot=O} {turkish=karayolu}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=hakkında}{slot=O} {turkish=bilgi}{slot=O} {turkish=verebilir}{slot=O} {turkish=misin}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Dallas}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Baltimore}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=19}{slot=B-depart_date.day_number} {turkish=Temmuz'da}{slot=B-depart_date.month_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=uçuşlar}{slot=O} {turkish=hangileridir}{slot=O}

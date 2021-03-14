@@ -1,0 +1,1 @@
+{turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=UA}{slot=B-airline_code} {turkish=270}{slot=B-flight_number} {turkish=sefer}{slot=O} {turkish=sayılı}{slot=O} {turkish=uçuş}{slot=O} {turkish=yemek}{slot=B-meal} {turkish=veriyor}{slot=O} {turkish=mu}{slot=O}

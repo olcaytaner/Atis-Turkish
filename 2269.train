@@ -1,0 +1,1 @@
+{turkish=Seattle'den}{slot=B-fromloc.city_name} {turkish=Continental}{slot=B-airline_name} {turkish=ile}{slot=O} {turkish=430'dan}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

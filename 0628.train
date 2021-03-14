@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=ekonomi}{slot=B-class_type} {turkish=sınıfı}{slot=I-class_type} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=günlük}{slot=B-flight_days} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

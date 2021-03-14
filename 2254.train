@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=akşam}{slot=B-depart_time.period_of_day} {turkish=saat}{slot=O} {turkish=6'dan}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=Tacoma'dan}{slot=B-fromloc.city_name} {turkish=miami'ye}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

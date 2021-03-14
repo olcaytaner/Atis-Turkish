@@ -1,0 +1,1 @@
+{turkish=hangi}{slot=O} {turkish=united}{slot=B-airline_name} {turkish=airlines}{slot=I-airline_name} {turkish=and}{slot=O} {turkish=northwest}{slot=B-airline_name} {turkish=uçuşları}{slot=O} {turkish=denver}{slot=B-stoploc.city_name} {turkish=aktarmalı}{slot=O}

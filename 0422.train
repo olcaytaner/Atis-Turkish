@@ -1,0 +1,1 @@
+{turkish=Boeing}{slot=O} {turkish=767}{slot=B-aircraft_code} {turkish=ile}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Diego'dan}{slot=I-fromloc.city_name} {turkish=Dulles'e}{slot=B-toloc.airport_name} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=Baltimore}{slot=B-toloc.city_name} {turkish=Washington}{slot=B-toloc.city_name} {turkish=arasında}{slot=O}

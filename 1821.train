@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=boston'a}{slot=B-toloc.city_name} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçan}{slot=O} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=uçuşlarını}{slot=O} {turkish=söyleyebilir}{slot=O} {turkish=misin}{slot=O}

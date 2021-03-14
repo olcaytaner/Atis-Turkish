@@ -1,0 +1,1 @@
+{turkish=denver'den}{slot=B-fromloc.city_name} {turkish=Chicago'ya}{slot=B-toloc.city_name} {turkish=934'ten}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=tüm}{slot=O} {turkish=Continental}{slot=B-airline_name} {turkish=uçuşlarını}{slot=O} {turkish=listele}{slot=O}

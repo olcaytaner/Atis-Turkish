@@ -1,0 +1,1 @@
+{turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=United}{slot=B-airline_name} {turkish=Airlines'ten}{slot=I-airline_name} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=bir}{slot=O} {turkish=bilete}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

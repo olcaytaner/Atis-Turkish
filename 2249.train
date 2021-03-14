@@ -1,0 +1,1 @@
+{turkish=Cincinnati'den}{slot=B-fromloc.city_name} {turkish=Tampa'ya}{slot=B-toloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=9'dan}{slot=B-depart_time.time} {turkish=önceki}{slot=B-depart_time.time_relative} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

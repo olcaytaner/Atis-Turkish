@@ -1,0 +1,1 @@
+{turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=denver'den}{slot=B-fromloc.city_name} {turkish=hangi}{slot=O} {turkish=Northwest}{slot=B-airline_name} {turkish=uçuşları}{slot=O} {turkish=kalkıyor}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=United'in}{slot=B-airline_name} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=seçeneği}{slot=O} {turkish=olan}{slot=O} {turkish=Baltimore'den}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=verin}{slot=O}

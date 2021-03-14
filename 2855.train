@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=dallas'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=3}{slot=B-depart_date.day_number} {turkish=ağustostaki}{slot=B-depart_date.month_name} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

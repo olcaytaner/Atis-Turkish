@@ -1,0 +1,1 @@
+{turkish=LA'dan}{slot=B-fromloc.city_name} {turkish=Charlotte'ye}{slot=B-toloc.city_name} {turkish=oradan}{slot=O} {turkish=newark'a}{slot=B-toloc.city_name} {turkish=sonra}{slot=O} {turkish=yeniden}{slot=O} {turkish=La'ya}{slot=B-toloc.city_name} {turkish=tek}{slot=O} {turkish=bir}{slot=O} {turkish=havayoluyla}{slot=O} {turkish=gidebilir}{slot=O} {turkish=miyim}{slot=O}

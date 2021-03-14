@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Seattle'den}{slot=B-fromloc.city_name} {turkish=olan}{slot=O} {turkish=Continental}{slot=B-airline_name} {turkish=uçuşlarını}{slot=O} {turkish=verin}{slot=O}

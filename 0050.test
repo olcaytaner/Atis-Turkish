@@ -1,0 +1,1 @@
+{turkish=bu}{slot=O} {turkish=yıl}{slot=B-depart_date.year} {turkish=23}{slot=B-depart_date.day_number} {turkish=kasımda}{slot=B-depart_date.month_name} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=Delta}{slot=B-airline_name} {turkish=ile}{slot=O} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

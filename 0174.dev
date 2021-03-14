@@ -1,0 +1,1 @@
+{turkish=Bu}{slot=O} {turkish=hafta}{slot=O} {turkish=cuma}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=uçağın}{slot=O} {turkish=türünü}{slot=O} {turkish=öğrenmek}{slot=O} {turkish=istiyorum}{slot=O}

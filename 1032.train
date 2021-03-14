@@ -1,0 +1,1 @@
+{turkish=Pazartesi}{slot=B-arrive_date.day_name} {turkish=gecesi}{slot=B-arrive_time.period_of_day} {turkish=Los}{slot=B-fromloc.city_name} {turkish=Angeles'ten}{slot=I-fromloc.city_name} {turkish=Pittsburgh'a}{slot=B-toloc.city_name} {turkish=son}{slot=B-flight_mod} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçuş}{slot=O}

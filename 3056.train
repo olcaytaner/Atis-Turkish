@@ -1,0 +1,1 @@
+{turkish=continental}{slot=B-airline_name} {turkish=havayollarında}{slot=I-airline_name} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco'dan}{slot=I-fromloc.city_name} {turkish=pittsburgh'a}{slot=B-toloc.city_name} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=sınıf}{slot=O} {turkish=hizmeti}{slot=O}

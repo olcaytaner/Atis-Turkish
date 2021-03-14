@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=15}{slot=B-depart_date.day_number} {turkish=ekim}{slot=B-depart_date.month_name} {turkish=1991'de}{slot=B-depart_date.year} {turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=söyler}{slot=O} {turkish=misin}{slot=O}

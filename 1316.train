@@ -1,0 +1,1 @@
+{turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=san}{slot=B-toloc.city_name} {turkish=francisco'ya}{slot=I-toloc.city_name} {turkish=yarın}{slot=B-depart_date.today_relative} {turkish=saat}{slot=B-depart_time.time} {turkish=5'ten}{slot=I-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=neyin}{slot=O} {turkish=var}{slot=O}

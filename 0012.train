@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Philadelphia'nın}{slot=B-city_name} {turkish=çarşamba}{slot=B-day_name} {turkish=sabahı}{slot=B-period_of_day} {turkish=karayolu}{slot=O} {turkish=ulaşım}{slot=O} {turkish=programını}{slot=O} {turkish=göster}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=öğleden}{slot=B-depart_time.time} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=atlanta'da}{slot=B-stoploc.city_name} {turkish=aktarma}{slot=O} {turkish=yapıyor}{slot=O}

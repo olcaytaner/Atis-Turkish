@@ -1,0 +1,1 @@
+{turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=tarifeyle}{slot=O} {turkish=memphis'ten}{slot=B-fromloc.city_name} {turkish=Seattle}{slot=B-toloc.city_name} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=yolculuğuna}{slot=O} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

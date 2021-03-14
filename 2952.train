@@ -1,0 +1,1 @@
+{turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=new}{slot=B-fromloc.city_name} {turkish=york}{slot=I-fromloc.city_name} {turkish=ile}{slot=O} {turkish=la}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=ücretler}{slot=O} {turkish=nelerdir}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Denver}{slot=B-city_name} {turkish=kiralık}{slot=B-transport_type} {turkish=araçların}{slot=I-transport_type} {turkish=maliyetlerini}{slot=O} {turkish=listeleyebilir}{slot=O} {turkish=misin}{slot=O}

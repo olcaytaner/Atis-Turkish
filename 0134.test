@@ -1,0 +1,1 @@
+{turkish=la}{slot=B-airport_name} {turkish=guardia}{slot=I-airport_name} {turkish=havaalanından}{slot=I-airport_name} {turkish=new}{slot=B-city_name} {turkish=york}{slot=I-city_name} {turkish=City'e}{slot=I-city_name} {turkish=hangi}{slot=O} {turkish=kara}{slot=O} {turkish=taşımacılığı}{slot=O} {turkish=mevcuttur}{slot=O}

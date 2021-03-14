@@ -1,0 +1,1 @@
+{turkish=Oakland'dan}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=giden}{slot=O} {turkish=21}{slot=B-depart_date.day_number} {turkish=Ocak}{slot=B-depart_date.month_name} {turkish=1992'deki}{slot=B-depart_date.year} {turkish=uçuşlar}{slot=O}

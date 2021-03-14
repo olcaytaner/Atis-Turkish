@@ -1,0 +1,1 @@
+{turkish=Montreal'da}{slot=B-fromloc.city_name} {turkish=yaşıyorum}{slot=O} {turkish=ve}{slot=O} {turkish=önce}{slot=O} {turkish=Chicago'ya}{slot=B-toloc.city_name} {turkish=sonra}{slot=O} {turkish=Indianapolis'e}{slot=B-toloc.city_name} {turkish=gitmek}{slot=O} {turkish=ve}{slot=O} {turkish=sonra}{slot=O} {turkish=eve}{slot=O} {turkish=dönmek}{slot=O} {turkish=istiyorum}{slot=O}

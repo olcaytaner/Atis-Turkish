@@ -1,0 +1,1 @@
+{turkish=charlotte'den}{slot=B-fromloc.city_name} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=yere}{slot=O} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=Us}{slot=B-airline_name} {turkish=Air}{slot=I-airline_name} {turkish=uçuşları}{slot=O}

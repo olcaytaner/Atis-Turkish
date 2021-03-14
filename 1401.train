@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=bana}{slot=O} {turkish=önümüzdeki}{slot=B-depart_date.date_relative} {turkish=perşembe}{slot=B-depart_date.day_name} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Philadelphia}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=uçuşları}{slot=O} {turkish=söyle}{slot=O}

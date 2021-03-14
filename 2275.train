@@ -1,0 +1,1 @@
+{turkish=boston}{slot=B-fromloc.city_name} {turkish=denver}{slot=B-fromloc.city_name} {turkish=sabah}{slot=I-depart_time.time} {turkish=10'dan}{slot=B-depart_time.time} {turkish=önceki}{slot=B-depart_time.time_relative} {turkish=tüm}{slot=O} {turkish=uçuşlar}{slot=O}

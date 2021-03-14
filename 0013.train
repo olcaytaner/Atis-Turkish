@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=San}{slot=B-city_name} {turkish=Francisco'nun}{slot=I-city_name} {turkish=perşembe}{slot=B-day_name} {turkish=akşamı}{slot=B-period_of_day} {turkish=kara}{slot=O} {turkish=ulaşım}{slot=O} {turkish=programını}{slot=O} {turkish=göster}{slot=O}

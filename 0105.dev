@@ -1,0 +1,1 @@
+{turkish=Delta'nın}{slot=B-airline_name} {turkish=kaç}{slot=O} {turkish=gece}{slot=B-depart_time.period_of_day} {turkish=uçuşu}{slot=O} {turkish=birinci}{slot=O} {turkish=sınıftır}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=22}{slot=B-depart_date.day_number} {turkish=mayısta}{slot=B-depart_date.month_name} {turkish=kansas}{slot=B-fromloc.city_name} {turkish=city'den}{slot=I-fromloc.city_name} {turkish=Burbank'a}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=america}{slot=B-airline_name} {turkish=west}{slot=I-airline_name} {turkish=uçuşları}{slot=O} {turkish=var}{slot=O}

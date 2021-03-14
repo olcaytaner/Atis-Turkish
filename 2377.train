@@ -1,0 +1,1 @@
+{turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'dan}{slot=I-fromloc.city_name} {turkish=ayrılıp}{slot=O} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=varan}{slot=O} {turkish=son}{slot=B-flight_mod} {turkish=uçuşunuz}{slot=O} {turkish=nedir}{slot=O}

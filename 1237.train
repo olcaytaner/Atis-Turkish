@@ -1,0 +1,1 @@
+{turkish=toronto}{slot=B-fromloc.airport_name} {turkish=havaalanından}{slot=I-fromloc.airport_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=nasıl}{slot=O} {turkish=giderim}{slot=O}

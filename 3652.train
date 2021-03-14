@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=Philadelphia'dan}{slot=B-fromloc.city_name} {turkish=Dallas'a}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuşun}{slot=O} {turkish=bilgisine}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

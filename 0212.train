@@ -1,0 +1,1 @@
+{turkish=Miami'den}{slot=B-fromloc.city_name} {turkish=JFK'ye}{slot=B-toloc.airport_code} {turkish=giden}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

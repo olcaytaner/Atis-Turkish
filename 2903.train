@@ -1,0 +1,1 @@
+{turkish=sekiz}{slot=B-depart_date.day_number} {turkish=nisanda}{slot=B-depart_date.month_name} {turkish=charlotte'den}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=uçak}{slot=O} {turkish=bileti}{slot=O} {turkish=rezerve}{slot=O} {turkish=etmek}{slot=O} {turkish=istiyorum}{slot=O}

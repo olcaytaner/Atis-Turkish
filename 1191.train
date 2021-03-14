@@ -1,0 +1,1 @@
+{turkish=Delta}{slot=B-airline_name} {turkish=Havayolları}{slot=I-airline_name} {turkish=tarafından}{slot=O} {turkish=Washington}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Denver}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=ne}{slot=O} {turkish=tür}{slot=O} {turkish=uçaklar}{slot=O} {turkish=kullanılıyor}{slot=O}

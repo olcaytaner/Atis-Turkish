@@ -1,0 +1,1 @@
+{turkish=Boston'dan}{slot=B-toloc.city_name} {turkish=7.05'te}{slot=B-arrive_time.time} {turkish=kalkıp}{slot=O} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=US}{slot=B-airline_name} {turkish=Air}{slot=I-airline_name} {turkish=uçuşunda}{slot=O} {turkish=durak}{slot=B-flight_stop} {turkish=var}{slot=O} {turkish=mı}{slot=O}

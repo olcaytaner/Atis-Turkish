@@ -1,0 +1,1 @@
+{turkish=öğlen}{slot=B-depart_time.period_of_day} {turkish=saat}{slot=O} {turkish=2'den}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=Dallas'tan}{slot=B-fromloc.city_name} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=uçuşların}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuzu}{slot=I-cost_relative} {turkish=nedir}{slot=O}

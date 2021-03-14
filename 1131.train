@@ -1,0 +1,1 @@
+{turkish=315}{slot=B-flight_number} {turkish=nolu}{slot=O} {turkish=american}{slot=B-airline_name} {turkish=airlines}{slot=I-airline_name} {turkish=uçuşunda}{slot=O} {turkish=ne}{slot=O} {turkish=tür}{slot=O} {turkish=uçak}{slot=O} {turkish=kullanılıyor}{slot=O}

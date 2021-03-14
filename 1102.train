@@ -1,0 +1,1 @@
+{turkish=us}{slot=B-airline_name} {turkish=air}{slot=I-airline_name} {turkish=dc'den}{slot=B-fromloc.state_code} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=uçuyor}{slot=O} {turkish=mu}{slot=O}

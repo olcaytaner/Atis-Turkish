@@ -1,0 +1,1 @@
+{turkish=san}{slot=B-fromloc.city_name} {turkish=francisco}{slot=I-fromloc.city_name} {turkish=ile}{slot=O} {turkish=baltimore}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=ücret}{slot=O} {turkish=nedir}{slot=O}

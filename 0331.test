@@ -1,0 +1,1 @@
+{turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Washington'a}{slot=B-toloc.city_name} {turkish=öğlen}{slot=B-depart_time.time} {turkish=3'ten}{slot=I-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

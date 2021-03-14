@@ -1,0 +1,1 @@
+{turkish=Dallas}{slot=B-stoploc.city_name} {turkish=Fort}{slot=I-stoploc.city_name} {turkish=Worth'da}{slot=I-stoploc.city_name} {turkish=mola}{slot=O} {turkish=veren}{slot=O} {turkish=Oakland'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=arıyorum}{slot=O}

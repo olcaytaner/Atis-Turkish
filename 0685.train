@@ -1,0 +1,1 @@
+{turkish=Kaç}{slot=O} {turkish=Canadian}{slot=B-airline_name} {turkish=Airlines}{slot=I-airline_name} {turkish=International}{slot=I-airline_name} {turkish=uçuşu}{slot=O} {turkish=j31}{slot=B-aircraft_code} {turkish=kullanıyor}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=midwest}{slot=B-airline_name} {turkish=express}{slot=I-airline_name} {turkish=Cleveland'a}{slot=B-city_name} {turkish=hizmet}{slot=O} {turkish=veriyor}{slot=O} {turkish=mu}{slot=O}

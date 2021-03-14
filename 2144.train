@@ -1,0 +1,1 @@
+{turkish=aralık}{slot=B-depart_date.month_name} {turkish=ayında}{slot=O} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=boston'da}{slot=B-stoploc.city_name} {turkish=aktarma}{slot=O} {turkish=yapan}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

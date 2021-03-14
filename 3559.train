@@ -1,0 +1,1 @@
+{turkish=Pazar}{slot=B-depart_date.day_name} {turkish=Continental}{slot=B-airline_name} {turkish=ile}{slot=O} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=bütün}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

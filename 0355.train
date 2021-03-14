@@ -1,0 +1,1 @@
+{turkish=Toronto}{slot=B-fromloc.airport_name} {turkish=Uluslararası}{slot=I-fromloc.airport_name} {turkish=Havaalanı}{slot=I-fromloc.airport_name} {turkish=ile}{slot=O} {turkish=Toronto}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=mesafe}{slot=O} {turkish=ne}{slot=O} {turkish=kadardır}{slot=O}

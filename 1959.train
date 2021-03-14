@@ -1,0 +1,1 @@
+{turkish=philadelphia'dan}{slot=B-fromloc.city_name} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=yer}{slot=O} {turkish=bulabileceğim}{slot=O} {turkish=ilk}{slot=O} {turkish=american}{slot=B-airline_name} {turkish=airlines}{slot=I-airline_name} {turkish=uçuşu}{slot=O} {turkish=hangisi}{slot=O}

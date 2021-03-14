@@ -1,0 +1,1 @@
+{turkish=st.}{slot=B-fromloc.city_name} {turkish=paul'dan}{slot=I-fromloc.city_name} {turkish=kansas}{slot=B-toloc.city_name} {turkish=city}{slot=I-toloc.city_name} {turkish=cuma}{slot=B-depart_date.day_name} {turkish=gecesi}{slot=B-depart_time.period_of_day}

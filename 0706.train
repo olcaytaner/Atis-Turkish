@@ -1,0 +1,1 @@
+{turkish=Çarşamba}{slot=B-depart_date.day_name} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Baltimore}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=ekonomi}{slot=B-class_type} {turkish=uçuşlarının}{slot=O} {turkish=zamanlarını}{slot=B-flight_time} {turkish=göster}{slot=O}

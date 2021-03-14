@@ -1,0 +1,1 @@
+{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=755}{slot=B-depart_time.time} {turkish=uçuşunun}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'ya}{slot=I-fromloc.city_name} {turkish=varış}{slot=B-flight_time} {turkish=saati}{slot=I-flight_time} {turkish=nedir}{slot=O}

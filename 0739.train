@@ -1,0 +1,1 @@
+{turkish=Denver}{slot=B-fromloc.city_name} {turkish=Colorado}{slot=B-fromloc.state_name} {turkish=şehrinden}{slot=O} {turkish=Pittsburgh}{slot=B-toloc.city_name} {turkish=Pennylvania}{slot=B-toloc.state_name} {turkish=şehrine}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşlar}{slot=O}

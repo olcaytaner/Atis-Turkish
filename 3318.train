@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Toronto'dan}{slot=B-fromloc.city_name} {turkish=olan}{slot=O} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=uçuşlarını}{slot=O} {turkish=gösterin}{slot=O}

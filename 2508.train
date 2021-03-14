@@ -1,0 +1,1 @@
+{turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=ayrılıp}{slot=O} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=mümkün}{slot=O} {turkish=olduğunca}{slot=O} {turkish=erken}{slot=B-flight_mod} {turkish=bir}{slot=O} {turkish=saatte}{slot=O} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

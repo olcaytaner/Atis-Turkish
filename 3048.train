@@ -1,0 +1,1 @@
+{turkish=lufthansa}{slot=B-airline_name} {turkish=havayollarıyla}{slot=I-airline_name} {turkish=boston}{slot=B-fromloc.city_name} {turkish=çıkışlı}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

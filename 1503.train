@@ -1,0 +1,1 @@
+{turkish=salı}{slot=B-depart_date.day_name} {turkish=salt}{slot=B-fromloc.city_name} {turkish=lake}{slot=I-fromloc.city_name} {turkish=city'den}{slot=I-fromloc.city_name} {turkish=phoenix}{slot=B-toloc.city_name} {turkish=arizona'ya}{slot=B-toloc.state_name} {turkish=yapılacak}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

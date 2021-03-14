@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=saat}{slot=O} {turkish=12'de}{slot=B-depart_time.time} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=bir}{slot=O} {turkish=uçak}{slot=O} {turkish=bul}{slot=O}

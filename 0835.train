@@ -1,0 +1,1 @@
+{turkish=Pittsburgh}{slot=B-airport_name} {turkish=Havaalanı}{slot=I-airport_name} {turkish=ile}{slot=O} {turkish=Pittsburgh}{slot=B-city_name} {turkish=şehir}{slot=O} {turkish=merkezi}{slot=O} {turkish=arasında}{slot=O} {turkish=hangi}{slot=O} {turkish=karayolu}{slot=O} {turkish=taşımacılığı}{slot=O} {turkish=mevcuttur}{slot=O}

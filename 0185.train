@@ -1,0 +1,1 @@
+{turkish=Philadelphia}{slot=B-airport_name} {turkish=Uluslararası}{slot=I-airport_name} {turkish=Havalimanı'ndaki}{slot=I-airport_name} {turkish=hava}{slot=B-transport_type} {turkish=taksiciliğinin}{slot=I-transport_type} {turkish=maliyeti}{slot=O} {turkish=nedir}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Boston}{slot=B-fromloc.city_name} {turkish=DC}{slot=B-fromloc.state_code} {turkish=ve}{slot=O} {turkish=Dallas'a}{slot=B-fromloc.city_name} {turkish=hizmet}{slot=O} {turkish=veren}{slot=O} {turkish=bir}{slot=O} {turkish=havayolu}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

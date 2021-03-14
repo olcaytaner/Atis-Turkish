@@ -1,0 +1,1 @@
+{turkish=tamam}{slot=O} {turkish=bana}{slot=O} {turkish=indianapolis'ten}{slot=B-fromloc.city_name} {turkish=kansas}{slot=B-toloc.city_name} {turkish=şehrine}{slot=I-toloc.city_name} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=bir}{slot=O} {turkish=bilet}{slot=O} {turkish=alır}{slot=O} {turkish=mısın}{slot=O}

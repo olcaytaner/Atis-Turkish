@@ -1,0 +1,1 @@
+{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=denver'e}{slot=B-toloc.city_name} {turkish=United}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=ile}{slot=O} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

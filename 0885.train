@@ -1,0 +1,1 @@
+{turkish=Charlotte'den}{slot=B-fromloc.city_name} {turkish=Newark'a}{slot=B-toloc.city_name} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.period_of_day} {turkish=veya}{slot=B-or} {turkish=akşam}{slot=B-depart_time.period_of_day} {turkish=kalkan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

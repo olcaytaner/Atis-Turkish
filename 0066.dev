@@ -1,0 +1,1 @@
+{turkish=B}{slot=B-fare_basis_code} {turkish=ücret}{slot=O} {turkish=kodu}{slot=O} {turkish=business}{slot=B-class_type} {turkish=sınıfı}{slot=I-class_type} {turkish=ile}{slot=O} {turkish=aynı}{slot=B-mod} {turkish=mı}{slot=O}

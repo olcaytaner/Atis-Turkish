@@ -1,0 +1,1 @@
+{turkish=General}{slot=B-fromloc.airport_name} {turkish=mitchell}{slot=I-fromloc.airport_name} {turkish=international'a}{slot=I-fromloc.airport_name} {turkish=gelen}{slot=B-flight_mod} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Boston’dan}{slot=B-fromloc.city_name} {turkish=Denver’a}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=ve}{slot=O} {turkish=öğle}{slot=B-meal_description} {turkish=yemeği}{slot=B-meal_description} {turkish=servis}{slot=O} {turkish=eden}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

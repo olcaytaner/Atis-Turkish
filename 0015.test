@@ -1,0 +1,1 @@
+{turkish=Sabah}{slot=B-period_of_day} {turkish=8.42'de}{slot=B-arrive_time.time} {turkish=inersem}{slot=O} {turkish=Memphis}{slot=B-airport_name} {turkish=Havalimanından}{slot=I-airline_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=kara}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

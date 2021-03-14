@@ -1,0 +1,1 @@
+{turkish=tamam}{slot=O} {turkish=ve}{slot=O} {turkish=sonra}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=dört}{slot=B-depart_date.day_number} {turkish=Eylül'de}{slot=B-depart_date.month_name} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=gitmek}{slot=O} {turkish=istiyorum}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=QX}{slot=B-fare_basis_code} {turkish=ücret}{slot=O} {turkish=kodu}{slot=O} {turkish=olan}{slot=O} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=ile}{slot=O} {turkish=listele}{slot=O}

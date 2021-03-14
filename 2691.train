@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=sadece}{slot=O} {turkish=Cleveland'dan}{slot=B-fromloc.city_name} {turkish=Dallas'a}{slot=B-toloc.city_name} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

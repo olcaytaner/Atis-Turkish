@@ -1,0 +1,1 @@
+{turkish=ayın}{slot=O} {turkish=20'sinde}{slot=B-depart_date.day_number} {turkish=San}{slot=B-fromloc.city_name} {turkish=Jose'den}{slot=I-fromloc.city_name} {turkish=Nashville'ye}{slot=B-toloc.city_name} {turkish=uçuşlar}{slot=O} {turkish=nelerdir}{slot=O}

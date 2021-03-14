@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=St.}{slot=B-toloc.city_name} {turkish=Louis'e}{slot=I-toloc.city_name} {turkish=olan}{slot=O} {turkish=Salı}{slot=B-depart_date.day_name} {turkish=uçuşlarını}{slot=O} {turkish=listeleyin}{slot=O}

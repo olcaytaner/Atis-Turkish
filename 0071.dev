@@ -1,0 +1,1 @@
+{turkish=Hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=şehirden}{slot=O} {turkish=General}{slot=B-toloc.airport_name} {turkish=Mitchell}{slot=I-toloc.airport_name} {turkish=International'a}{slot=I-toloc.airport_name} {turkish=iner}{slot=O}

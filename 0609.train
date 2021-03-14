@@ -1,0 +1,1 @@
+{turkish=Oakland}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Salt}{slot=B-toloc.city_name} {turkish=Lake}{slot=I-toloc.city_name} {turkish=City}{slot=I-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-flight_mod} {turkish=erken}{slot=I-flight_mod} {turkish=günlük}{slot=B-flight_days} {turkish=uçuş}{slot=O} {turkish=hangisi}{slot=O}

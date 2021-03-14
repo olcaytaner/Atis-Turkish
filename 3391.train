@@ -1,0 +1,1 @@
+{turkish=Cuma}{slot=B-depart_date.day_name} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco-Boston}{slot=I-fromloc.city_name} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

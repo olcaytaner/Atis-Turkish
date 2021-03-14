@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Washington}{slot=B-fromloc.city_name} {turkish=DC'den}{slot=B-fromloc.state_code} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=Denver'de}{slot=B-stoploc.city_name} {turkish=mola}{slot=O} {turkish=veren}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

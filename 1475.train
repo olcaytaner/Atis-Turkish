@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=san}{slot=B-fromloc.city_name} {turkish=Francisco}{slot=I-fromloc.city_name} {turkish=-}{slot=O} {turkish=Washington}{slot=B-toloc.city_name} {turkish=DC}{slot=B-toloc.state_code} {turkish=arasındaki}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

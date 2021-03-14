@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=bana}{slot=O} {turkish=hangi}{slot=O} {turkish=havayolu}{slot=O} {turkish=şirketinin}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=en}{slot=O} {turkish=çok}{slot=B-mod} {turkish=kalkışa}{slot=O} {turkish=sahip}{slot=O} {turkish=olduğunu}{slot=O} {turkish=söyle}{slot=O}

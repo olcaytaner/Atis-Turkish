@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Kansas}{slot=B-fromloc.city_name} {turkish=City'den}{slot=I-fromloc.city_name} {turkish=St.}{slot=B-toloc.city_name} {turkish=Paul'a}{slot=I-toloc.city_name} {turkish=giden}{slot=O} {turkish=Northwest}{slot=B-airline_name} {turkish=607}{slot=B-flight_number} {turkish=uçuşunu}{slot=O} {turkish=göster}{slot=O}

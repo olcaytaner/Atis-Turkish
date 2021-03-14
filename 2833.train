@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=1}{slot=B-depart_date.day_number} {turkish=ağustos}{slot=B-depart_date.month_name} {turkish=için}{slot=O} {turkish=atlanta}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=philadelphia}{slot=B-toloc.city_name} {turkish=uçuşlarının}{slot=O} {turkish=fiyatlarını}{slot=O} {turkish=listeleyin}{slot=O}

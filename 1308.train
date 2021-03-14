@@ -1,0 +1,1 @@
+{turkish=tacoma'dan}{slot=B-fromloc.city_name} {turkish=miami'ye}{slot=B-toloc.city_name} {turkish=yarın}{slot=B-depart_date.today_relative} {turkish=akşam}{slot=B-depart_time.time} {turkish=6'dan}{slot=I-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=neler}{slot=O}

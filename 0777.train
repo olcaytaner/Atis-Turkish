@@ -1,0 +1,1 @@
+{turkish=Boston}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco}{slot=I-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=business}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=uçuş}{slot=O} {turkish=nedir}{slot=O}

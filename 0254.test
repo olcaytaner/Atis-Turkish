@@ -1,0 +1,1 @@
+{turkish=10'da}{slot=B-arrive_time.time} {turkish=inecek}{slot=O} {turkish=olan}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=bütün}{slot=O} {turkish=uçuşlar}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=atlanta'da}{slot=B-city_name} {turkish=araba}{slot=B-transport_type} {turkish=kiralama}{slot=I-transport_type} {turkish=fiyatı}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

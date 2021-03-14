@@ -1,0 +1,1 @@
+{turkish=Hangi}{slot=O} {turkish=havaalanı}{slot=O} {turkish=Ontario}{slot=B-city_name} {turkish=California'ya}{slot=B-state_name} {turkish=en}{slot=B-flight_mod} {turkish=yakın}{slot=I-flight_mod}

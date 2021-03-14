@@ -1,0 +1,1 @@
+{turkish=United}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=ile}{slot=O} {turkish=dallas}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=san}{slot=B-toloc.city_name} {turkish=francisco}{slot=I-toloc.city_name} {turkish=uçuşunuz}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

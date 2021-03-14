@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=bana}{slot=O} {turkish=akşam}{slot=B-meal_description} {turkish=yemeği}{slot=B-meal_description} {turkish=servis}{slot=O} {turkish=edilen}{slot=O} {turkish=Nashville'den}{slot=B-fromloc.city_name} {turkish=Houston'a}{slot=B-toloc.city_name} {turkish=kesintisiz}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

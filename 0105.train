@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=önümüzdeki}{slot=B-arrive_date.date_relative} {turkish=salı}{slot=B-arrive_date.day_name} {turkish=saat}{slot=B-arrive_time.time} {turkish=6'da}{slot=I-arrive_time.time} {turkish=varan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşlar}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=10}{slot=B-depart_date.day_number} {turkish=Haziran'da}{slot=B-depart_date.month_name} {turkish=kaç}{slot=O} {turkish=United}{slot=B-airline_name} {turkish=Airlines}{slot=I-airline_name} {turkish=uçuşu}{slot=O} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=ayrılıyor}{slot=O}

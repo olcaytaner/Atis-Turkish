@@ -1,0 +1,1 @@
+{turkish=Washington}{slot=B-fromloc.city_name} {turkish=DC'den}{slot=B-fromloc.state_code} {turkish=Pittsburgh'a}{slot=B-toloc.city_name} {turkish=18:00'den}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

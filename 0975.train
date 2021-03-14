@@ -1,0 +1,1 @@
+{turkish=Pittsburgh}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Baltimore}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=j31}{slot=B-aircraft_code} {turkish=uçağıyla}{slot=O} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Memphis}{slot=B-fromloc.city_name} {turkish=Tennessee'den}{slot=B-fromloc.state_name} {turkish=Charlotte}{slot=B-toloc.city_name} {turkish=North}{slot=B-toloc.state_name} {turkish=Carolina'ya}{slot=I-toloc.state_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

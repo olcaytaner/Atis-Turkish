@@ -1,0 +1,1 @@
+{turkish=Pazartesi}{slot=B-depart_date.day_name} {turkish=Cincinnati'den}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Jose'ye}{slot=I-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuş}{slot=O} {turkish=bulun}{slot=O}

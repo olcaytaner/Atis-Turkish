@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'dan}{slot=I-fromloc.city_name} {turkish=La}{slot=B-toloc.airport_name} {turkish=Guardia'ya}{slot=I-toloc.airport_name} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

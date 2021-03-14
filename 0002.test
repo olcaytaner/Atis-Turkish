@@ -1,0 +1,1 @@
+{turkish=Nashville'den}{slot=B-fromloc.city_name} {turkish=Seattle'ye}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=saat}{slot=O} {turkish=3'ten}{slot=B-arrive_time.time} {turkish=önce}{slot=B-arrive_time.time_relative} {turkish=varışlı}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

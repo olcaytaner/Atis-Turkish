@@ -1,0 +1,1 @@
+{turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=I-depart_time.period_of_day} {turkish=minneapolis'ten}{slot=B-fromloc.city_name} {turkish=indianapolis'e}{slot=B-toloc.city_name} {turkish=kalkan}{slot=O} {turkish=uçuş}{slot=O} {turkish=seçeneklerim}{slot=O} {turkish=nelerdir}{slot=O}

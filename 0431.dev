@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=I-depart_time.period_of_day} {turkish=Charlotte}{slot=B-fromloc.city_name} {turkish=kalkışlı}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

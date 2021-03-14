@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=st.}{slot=B-fromloc.city_name} {turkish=louis'ten}{slot=I-fromloc.city_name} {turkish=st.}{slot=B-fromloc.city_name} {turkish=Paul'a}{slot=I-toloc.city_name} {turkish=perşembe}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=uçuşlarını}{slot=O} {turkish=listeleyin}{slot=O}

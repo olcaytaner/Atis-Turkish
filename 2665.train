@@ -1,0 +1,1 @@
+{turkish=pazar}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco}{slot=I-fromloc.city_name} {turkish=-}{slot=O} {turkish=pittsburgh}{slot=B-toloc.city_name} {turkish=arasndaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=uçuş}{slot=O} {turkish=hangisidir}{slot=O}

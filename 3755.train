@@ -1,0 +1,1 @@
+{turkish=Montreal}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Phoenix'den}{slot=B-fromloc.city_name} {turkish=Las}{slot=B-toloc.city_name} {turkish=Vegas'a}{slot=I-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşlar}{slot=O}

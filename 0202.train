@@ -1,0 +1,1 @@
+{turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=BWI'ye}{slot=B-toloc.airport_code} {turkish=en}{slot=B-cost_relative} {turkish=düşük}{slot=I-cost_relative} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=tarifesi}{slot=O} {turkish=nedir}{slot=O}

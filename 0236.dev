@@ -1,0 +1,1 @@
+{turkish=Orlando'dan}{slot=B-fromloc.city_name} {turkish=Cleveland'a}{slot=B-toloc.city_name} {turkish=US}{slot=B-airline_name} {turkish=Air'in}{slot=I-airline_name} {turkish=akşam}{slot=I-arrive_time.time} {turkish=10}{slot=B-arrive_time.time} {turkish=civarı}{slot=B-arrive_time.time_relative} {turkish=gelen}{slot=O} {turkish=uçuşları}{slot=O} {turkish=nelerdir}{slot=O}

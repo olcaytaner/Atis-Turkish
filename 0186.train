@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Boston}{slot=B-airport_name} {turkish=Havalimanı'ndaki}{slot=I-airport_name} {turkish=kiralık}{slot=B-transport_type} {turkish=araba}{slot=I-transport_type} {turkish=ücretlerinin}{slot=O} {turkish=bir}{slot=O} {turkish=listesini}{slot=O} {turkish=göster}{slot=O}

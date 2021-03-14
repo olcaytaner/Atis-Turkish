@@ -1,0 +1,1 @@
+{turkish=Houston'da}{slot=B-city_name} {turkish=kiralık}{slot=B-transport_type} {turkish=araba}{slot=I-transport_type} {turkish=alabilir}{slot=O} {turkish=miyim}{slot=O}

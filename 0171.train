@@ -1,0 +1,1 @@
+{turkish=Gelecek}{slot=B-depart_date.date_relative} {turkish=pazar}{slot=B-depart_date.day_name} {turkish=Denver}{slot=B-fromloc.airport_name} {turkish=Havaalanı'nda}{slot=I-fromloc.airport_name} {turkish=bulunan}{slot=O} {turkish=kiralık}{slot=B-transport_type} {turkish=arabalar}{slot=I-transport_type}

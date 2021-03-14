@@ -1,0 +1,1 @@
+{turkish=houston'dan}{slot=B-fromloc.city_name} {turkish=los}{slot=B-toloc.city_name} {turkish=angeles'e}{slot=I-toloc.city_name} {turkish=1026'dan}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşlar}{slot=O}

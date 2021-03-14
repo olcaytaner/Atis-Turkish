@@ -1,0 +1,1 @@
+{turkish=Charlotte}{slot=B-airport_name} {turkish=Havalimanı'nda}{slot=I-airport_name} {turkish=US}{slot=B-airline_name} {turkish=Air'in}{slot=I-airline_name} {turkish=kaç}{slot=O} {turkish=farklı}{slot=O} {turkish=uçak}{slot=O} {turkish=türü}{slot=O} {turkish=var}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=yarın}{slot=B-depart_date.today_relative} {turkish=akşam}{slot=B-depart_time.period_of_day} {turkish=milwaukee}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=st.}{slot=B-toloc.city_name} {turkish=Louis}{slot=I-toloc.city_name}

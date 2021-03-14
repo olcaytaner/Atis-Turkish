@@ -1,0 +1,1 @@
+{turkish=Ekonomi}{slot=B-economy} {turkish=sınıfı}{slot=I-economy} {turkish=ile}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'dan}{slot=I-fromloc.city_name} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=günlük}{slot=B-flight_days} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O}

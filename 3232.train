@@ -1,0 +1,1 @@
+{turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=gecesi}{slot=B-depart_time.period_of_day} {turkish=denver}{slot=B-toloc.city_name} {turkish=için}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=kalkıyor}{slot=O}

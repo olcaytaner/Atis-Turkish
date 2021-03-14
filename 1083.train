@@ -1,0 +1,1 @@
+{turkish=Peki}{slot=O} {turkish=ya}{slot=O} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=DC'den}{slot=B-fromloc.state_code} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=olanlar}{slot=O}

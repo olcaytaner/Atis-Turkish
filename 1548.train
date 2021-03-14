@@ -1,0 +1,1 @@
+{turkish=21}{slot=B-depart_date.day_number} {turkish=nisan}{slot=B-depart_date.month_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=nashville'den}{slot=B-fromloc.city_name} {turkish=tacoma'ya}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O}

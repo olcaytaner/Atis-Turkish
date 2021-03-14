@@ -1,0 +1,1 @@
+{turkish=11}{slot=B-depart_date.day_number} {turkish=Kasım}{slot=B-depart_date.month_name} {turkish=1991}{slot=B-depart_date.year} {turkish=Pazartesi}{slot=B-depart_date.day_name} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Washington}{slot=B-toloc.city_name} {turkish=DC'ye}{slot=B-toloc.state_code}

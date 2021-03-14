@@ -1,0 +1,1 @@
+{turkish=1}{slot=B-depart_date.day_number} {turkish=nisan}{slot=B-depart_date.month_name} {turkish=günü}{slot=O} {turkish=Phoenix'den}{slot=B-fromloc.city_name} {turkish=san}{slot=B-toloc.city_name} {turkish=diego'ya}{slot=I-toloc.city_name} {turkish=tek}{slot=B-round_trip} {turkish=yön}{slot=I-round_trip} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

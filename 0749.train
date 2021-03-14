@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=bana}{slot=O} {turkish=Long}{slot=B-fromloc.city_name} {turkish=Beach}{slot=I-fromloc.city_name} {turkish=California'dan}{slot=B-fromloc.state_name} {turkish=Memphis}{slot=B-toloc.city_name} {turkish=tennessee'ye}{slot=B-toloc.state_name} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

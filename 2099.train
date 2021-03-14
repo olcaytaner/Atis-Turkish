@@ -1,0 +1,1 @@
+{turkish=long}{slot=B-fromloc.city_name} {turkish=Beach'ten}{slot=I-fromloc.city_name} {turkish=st.}{slot=B-toloc.city_name} {turkish=louis'e}{slot=I-toloc.city_name} {turkish=dallas}{slot=B-stoploc.city_name} {turkish=aktarmalı}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

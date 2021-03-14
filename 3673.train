@@ -1,0 +1,1 @@
+{turkish=Pazartesi}{slot=B-depart_date.day_name} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=Flights}{slot=O} {turkish=ile}{slot=O} {turkish=Philadelphia'dan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-fromloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşlar}{slot=O}

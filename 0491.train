@@ -1,0 +1,1 @@
+{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=tasarruf}{slot=B-class_type} {turkish=ekonomi}{slot=B-economy} {turkish=uçuş}{slot=O} {turkish=ücreti}{slot=O} {turkish=nedir}{slot=O}

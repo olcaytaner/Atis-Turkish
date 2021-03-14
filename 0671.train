@@ -1,0 +1,1 @@
+{turkish=19}{slot=B-depart_date.day_number} {turkish=Temmuz'da}{slot=B-depart_date.month_name} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=kaç}{slot=O} {turkish=uçuş}{slot=O} {turkish=geliyor}{slot=O}

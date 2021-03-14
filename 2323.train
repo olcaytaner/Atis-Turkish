@@ -1,0 +1,1 @@
+{turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=san}{slot=B-toloc.city_name} {turkish=francisco'ya}{slot=I-toloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=8'den}{slot=B-depart_time.time} {turkish=sonraki}{slot=B-depart_time.time_relative} {turkish=ilk}{slot=B-flight_mod} {turkish=uçuş}{slot=O} {turkish=nedir}{slot=O}

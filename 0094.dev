@@ -1,0 +1,1 @@
+{turkish=Yarın}{slot=B-depart_date.today_relative} {turkish=erken}{slot=B-depart_time.period_mod} {turkish=saatte}{slot=O} {turkish=Columbus'tan}{slot=B-fromloc.city_name} {turkish=Minneapolis'e}{slot=B-toloc.city_name} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

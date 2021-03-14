@@ -1,0 +1,1 @@
+{turkish=şimdi}{slot=O} {turkish=bana}{slot=O} {turkish=st.}{slot=B-city_name} {turkish=Louis'ten}{slot=I-city_name} {turkish=burbank'a}{slot=B-toloc.city_name} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

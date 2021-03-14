@@ -1,0 +1,1 @@
+{turkish=dallas}{slot=B-airport_name} {turkish=fort}{slot=I-airport_name} {turkish=worth}{slot=I-airport_name} {turkish=Airport'tan}{slot=I-airport_name} {turkish=dallas}{slot=B-city_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=hangi}{slot=O} {turkish=kara}{slot=O} {turkish=taşımacılığı}{slot=O} {turkish=mevcuttur}{slot=O}

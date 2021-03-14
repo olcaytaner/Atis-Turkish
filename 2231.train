@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=9'da}{slot=B-depart_time.time} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=Denver}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=birleşik}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

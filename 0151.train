@@ -1,0 +1,1 @@
+{turkish=Oak}{slot=B-fromloc.airport_code} {turkish=ve}{slot=O} {turkish=ATL}{slot=B-toloc.airport_code} {turkish=arasında}{slot=O} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=biletinin}{slot=O} {turkish=maliyeti}{slot=O} {turkish=nedir}{slot=O}

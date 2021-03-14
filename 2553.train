@@ -1,0 +1,1 @@
+{turkish=charlotte}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=las}{slot=B-toloc.city_name} {turkish=vegas}{slot=I-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=fiyatları}{slot=O} {turkish=listeleyin}{slot=O}

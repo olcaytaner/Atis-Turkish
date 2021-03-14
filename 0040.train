@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=akşam}{slot=B-arrive_time.start_time} {turkish=8}{slot=I-arrive_time.start_time} {turkish=ile}{slot=O} {turkish=9}{slot=B-arrive_time.end_time} {turkish=arasında}{slot=O} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=varan}{slot=O} {turkish=tüm}{slot=O} {turkish=günlük}{slot=B-flight_days} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

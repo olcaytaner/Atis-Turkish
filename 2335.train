@@ -1,0 +1,1 @@
+{turkish=Akşam}{slot=B-depart_time.period_of_day} {turkish=1020'den}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=newark'a}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O}

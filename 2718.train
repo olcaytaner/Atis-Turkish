@@ -1,0 +1,1 @@
+{turkish=Miami'den}{slot=B-fromloc.city_name} {turkish=Cleveland'a}{slot=B-toloc.city_name} {turkish=Us}{slot=B-airline_name} {turkish=Air}{slot=I-airline_name} {turkish=ile}{slot=O} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

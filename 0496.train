@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=Dallas'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=ekonomi}{slot=B-economy} {turkish=fiyatlarını}{slot=O} {turkish=göster}{slot=O}

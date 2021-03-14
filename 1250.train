@@ -1,0 +1,1 @@
+{turkish=la}{slot=B-fromloc.airport_name} {turkish=guardia'dan}{slot=I-fromloc.airport_name} {turkish=san}{slot=B-toloc.city_name} {turkish=jose'ye}{slot=I-toloc.city_name} {turkish=bir}{slot=O} {turkish=united}{slot=B-airline_name} {turkish=airlines}{slot=I-airline_name} {turkish=uçuşuna}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

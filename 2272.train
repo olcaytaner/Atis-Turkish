@@ -1,0 +1,1 @@
+{turkish=kansas}{slot=B-fromloc.city_name} {turkish=şehrinden}{slot=O} {turkish=st.}{slot=B-toloc.city_name} {turkish=paul'a}{slot=I-toloc.city_name} {turkish=saat}{slot=O} {turkish=4'te}{slot=B-depart_time.time} {turkish=kalkan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O}

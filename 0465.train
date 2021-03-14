@@ -1,0 +1,1 @@
+{turkish=Seattle'den}{slot=B-fromloc.city_name} {turkish=Salt}{slot=B-toloc.city_name} {turkish=Lake}{slot=I-toloc.city_name} {turkish=City'e}{slot=I-toloc.city_name} {turkish=Delta}{slot=B-airline_name} {turkish=uçuşlarının}{slot=O} {turkish=oturma}{slot=O} {turkish=kapasitelerini}{slot=O} {turkish=listele}{slot=O}

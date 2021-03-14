@@ -1,0 +1,1 @@
+{turkish=6}{slot=B-arrive_date.day_number} {turkish=Haziran'da}{slot=B-arrive_date.month_name} {turkish=Love}{slot=B-toloc.airport_name} {turkish=Field'e}{slot=I-toloc.airport_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=varıyor}{slot=O}

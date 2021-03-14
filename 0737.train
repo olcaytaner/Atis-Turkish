@@ -1,0 +1,1 @@
+{turkish=Denver}{slot=B-fromloc.city_name} {turkish=Colorado'dan}{slot=B-fromloc.state_name} {turkish=Dallas}{slot=B-toloc.city_name} {turkish=Texas'a}{slot=B-toloc.state_name} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=uçuşu}{slot=O} {turkish=istiyorum}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=baltimore}{slot=B-airport_name} {turkish=havaalanında}{slot=I-airport_name} {turkish=limuzin}{slot=B-transport_type} {turkish=servisi}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

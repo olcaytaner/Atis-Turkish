@@ -1,0 +1,1 @@
+{turkish=son}{slot=B-fromloc.city_name} {turkish=jose}{slot=I-fromloc.city_name} {turkish=ile}{slot=O} {turkish=houston}{slot=B-toloc.city_name} {turkish=texas}{slot=B-toloc.state_name} {turkish=arasında}{slot=O} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçuşlar}{slot=O}

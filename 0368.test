@@ -1,0 +1,1 @@
+{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=fort}{slot=B-toloc.city_name} {turkish=Worth'a}{slot=I-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=tarifeyle}{slot=O} {turkish=ilgileniyorum}{slot=O}

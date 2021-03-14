@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=önümüzdeki}{slot=B-depart_date.date_relative} {turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=charlotte'ye}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=anlat}{slot=O}

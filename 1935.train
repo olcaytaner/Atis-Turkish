@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=bana}{slot=O} {turkish=tekrar}{slot=O} {turkish=Baltimore'den}{slot=B-fromloc.city_name} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=fiyatlarını}{slot=O} {turkish=göster}{slot=O}

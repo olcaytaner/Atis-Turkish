@@ -1,0 +1,1 @@
+{turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=ve}{slot=O} {turkish=orlando'ya}{slot=B-toloc.city_name} {turkish=cumartesi}{slot=B-arrive_date.day_name} {turkish=günü}{slot=O} {turkish=12'den}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

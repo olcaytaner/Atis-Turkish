@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=sadece}{slot=O} {turkish=denver}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=boston}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=United}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=uçuşlarını}{slot=O} {turkish=listeleyin}{slot=O}

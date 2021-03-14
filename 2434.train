@@ -1,0 +1,1 @@
+{turkish=phoenix}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=denver}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=tüm}{slot=O} {turkish=hafta}{slot=B-flight_mod} {turkish=içi}{slot=I-flight_mod} {turkish=uçuşları}{slot=O} {turkish=gösterebilir}{slot=O} {turkish=misin}{slot=O}

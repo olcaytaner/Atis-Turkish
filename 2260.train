@@ -1,0 +1,1 @@
+{turkish=St.}{slot=B-fromloc.city_name} {turkish=Louis'ten}{slot=I-fromloc.city_name} {turkish=St.Paul'a}{slot=B-toloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=10'dan}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

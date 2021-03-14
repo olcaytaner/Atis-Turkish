@@ -1,0 +1,1 @@
+{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=gecesi}{slot=B-depart_time.period_of_day} {turkish=saat}{slot=O} {turkish=9'da}{slot=B-depart_time.time} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=gitmek}{slot=O} {turkish=istiyorum}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=aşk}{slot=B-fromloc.airport_name} {turkish=alanına}{slot=I-fromloc.airport_name} {turkish=gidiş}{slot=O} {turkish=ve}{slot=O} {turkish=dönüş}{slot=O} {turkish=uçuşları}{slot=O} {turkish=için}{slot=O} {turkish=havayollarını}{slot=O} {turkish=göster}{slot=O}

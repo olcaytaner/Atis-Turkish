@@ -1,0 +1,1 @@
+{turkish=Los}{slot=B-fromloc.city_name} {turkish=Angeles'ten}{slot=I-fromloc.city_name} {turkish=Charlotte'ye}{slot=B-toloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=erken}{slot=B-depart_time.period_mod} {turkish=kalkan}{slot=O} {turkish=bir}{slot=O} {turkish=bilete}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

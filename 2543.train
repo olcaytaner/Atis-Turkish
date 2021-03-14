@@ -1,0 +1,1 @@
+{turkish=Detroit'ten}{slot=B-fromloc.city_name} {turkish=Westchester}{slot=B-toloc.city_name} {turkish=County'ye}{slot=I-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=yüksek}{slot=B-cost_relative} {turkish=fiyatlı}{slot=O} {turkish=tek}{slot=B-round_trip} {turkish=yönlü}{slot=I-round_trip} {turkish=uçuşu}{slot=O} {turkish=göster}{slot=O}

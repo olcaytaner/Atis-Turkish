@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=new}{slot=B-fromloc.city_name} {turkish=york'tan}{slot=I-fromloc.city_name} {turkish=salı}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=miami'ye}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=fiyatları}{slot=O} {turkish=göster}{slot=O}

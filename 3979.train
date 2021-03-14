@@ -1,0 +1,1 @@
+{turkish=Tamam.}{slot=O} {turkish=Bana}{slot=O} {turkish=Denver}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Atlanta}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=uçuşun}{slot=O} {turkish=ücretini}{slot=O} {turkish=söyleyebilir}{slot=O} {turkish=misiniz}{slot=O}

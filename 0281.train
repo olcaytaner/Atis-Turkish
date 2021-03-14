@@ -1,0 +1,1 @@
+{turkish=Detroit'ten}{slot=B-fromloc.city_name} {turkish=Westchester}{slot=B-toloc.city_name} {turkish=bölgesine}{slot=I-toloc.city_name} {turkish=hareket}{slot=B-flight_time} {turkish=saatleri}{slot=I-flight_time} {turkish=nedir}{slot=O}

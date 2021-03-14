@@ -1,0 +1,1 @@
+{turkish=430'dan}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=pazar}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Seattle'den}{slot=B-fromloc.city_name} {turkish=ayrılan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

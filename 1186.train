@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Canadian}{slot=B-airline_name} {turkish=Airlines'in}{slot=I-airline_name} {turkish=kullandığı}{slot=O} {turkish=uçağı}{slot=O} {turkish=göster}{slot=O}

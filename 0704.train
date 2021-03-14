@@ -1,0 +1,1 @@
+{turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=en}{slot=B-flight_mod} {turkish=erken}{slot=I-flight_mod} {turkish=uçuş}{slot=O} {turkish=saat}{slot=B-flight_time} {turkish=kaçta}{slot=O} {turkish=kalkıyor}{slot=O}

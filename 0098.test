@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=bugün}{slot=B-depart_date.today_relative} {turkish=erken}{slot=B-depart_time.period_mod} {turkish=kalkan}{slot=O} {turkish=boston-san}{slot=B-fromloc.city_name} {turkish=francisco}{slot=I-toloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=ver}{slot=O}

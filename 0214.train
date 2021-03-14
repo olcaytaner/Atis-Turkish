@@ -1,0 +1,1 @@
+{turkish=Atlanta}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=DFW}{slot=B-toloc.airport_code} {turkish=arasındaki}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=için}{slot=O} {turkish=Delta}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=tarafından}{slot=O} {turkish=belirtilen}{slot=O} {turkish=ücretler}{slot=O} {turkish=nelerdir}{slot=O}

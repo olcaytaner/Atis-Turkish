@@ -1,0 +1,1 @@
+{turkish=öğleden}{slot=B-depart_time.time} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=Denver'de}{slot=B-stoploc.city_name} {turkish=aktarma}{slot=O} {turkish=yapan}{slot=O} {turkish=united}{slot=B-airline_name} {turkish=airlines}{slot=I-airline_name} {turkish=uçuşları}{slot=O}

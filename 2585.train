@@ -1,0 +1,1 @@
+{turkish=orlando}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=Kansas}{slot=B-toloc.city_name} {turkish=arası}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=uçuşlarını}{slot=O} {turkish=listeleyin}{slot=O}

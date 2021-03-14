@@ -1,0 +1,1 @@
+{turkish=150}{slot=B-fare_amount} {turkish=dolardan}{slot=I-fare_amount} {turkish=ucuza}{slot=B-cost_relative} {turkish=Montreal'dan}{slot=B-fromloc.city_name} {turkish=tüm}{slot=O} {turkish=uçuşlar}{slot=O}

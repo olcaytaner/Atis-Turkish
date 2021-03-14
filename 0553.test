@@ -1,0 +1,1 @@
+{turkish=şimdi}{slot=O} {turkish=beni}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=getir}{slot=O}

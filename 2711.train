@@ -1,0 +1,1 @@
+{turkish=ve}{slot=O} {turkish=Oakland'dan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name} {turkish=uçuş}{slot=O} {turkish=gece}{slot=B-depart_time.period_of_day} {turkish=yarısından}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=olacak}{slot=O}

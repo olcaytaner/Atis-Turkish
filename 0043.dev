@@ -1,0 +1,1 @@
+{turkish=America}{slot=B-airline_name} {turkish=West}{slot=I-airline_name} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=hangi}{slot=O} {turkish=şehirlere}{slot=O} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=uçuyor}{slot=O}

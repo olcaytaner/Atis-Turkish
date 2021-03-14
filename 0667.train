@@ -1,0 +1,1 @@
+{turkish=American}{slot=B-airline_name} {turkish=Airlines'in}{slot=I-airline_name} {turkish=hizmet}{slot=O} {turkish=kodu}{slot=O} {turkish=f}{slot=B-fare_basis_code} {turkish=olan}{slot=O} {turkish=kaç}{slot=O} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O}

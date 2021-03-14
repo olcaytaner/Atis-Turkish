@@ -1,0 +1,1 @@
+{turkish=American'ın}{slot=B-airline_name} {turkish=813}{slot=B-flight_number} {turkish=numaralı}{slot=O} {turkish=Boston-Oakland}{slot=B-fromloc.city_name} {turkish=uçuşu}{slot=O} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçuş}{slot=O} {turkish=mu}{slot=O}

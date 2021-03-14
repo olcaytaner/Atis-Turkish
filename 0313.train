@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=27}{slot=B-depart_date.day_number} {turkish=Aralık'ta}{slot=B-depart_date.month_name} {turkish=Orlando'dan}{slot=B-fromloc.city_name} {turkish=indianapolis'e}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=ve}{slot=O} {turkish=ücretlerini}{slot=O} {turkish=göster}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=cuma}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=akşam}{slot=B-arrive_time.period_of_day} {turkish=6'dan}{slot=B-arrive_time.time} {turkish=önce}{slot=B-arrive_time.time_relative} {turkish=varacak}{slot=O} {turkish=bir}{slot=O} {turkish=atlanta-dallas}{slot=O} {turkish=uçuşu}{slot=O} {turkish=istiyorum}{slot=O}

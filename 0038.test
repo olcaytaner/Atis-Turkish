@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=Pittsburgh'taki}{slot=B-city_name} {turkish=araç}{slot=B-transport_type} {turkish=kiralama}{slot=I-transport_type} {turkish=fiyatlarını}{slot=O} {turkish=listeleyin}{slot=O}

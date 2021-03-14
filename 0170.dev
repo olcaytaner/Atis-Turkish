@@ -1,0 +1,1 @@
+{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name} {turkish=324}{slot=B-flight_number} {turkish=no'lu}{slot=O} {turkish=uçuş}{slot=O} {turkish=ile}{slot=O} {turkish=2}{slot=B-depart_date.day_number} {turkish=Ağustos'ta}{slot=B-depart_date.month_name} {turkish=gitmek}{slot=O} {turkish=istiyorum}{slot=O}

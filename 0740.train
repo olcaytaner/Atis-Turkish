@@ -1,0 +1,1 @@
+{turkish=Ontario}{slot=B-fromloc.city_name} {turkish=California'dan}{slot=B-fromloc.state_name} {turkish=Salt}{slot=B-toloc.city_name} {turkish=Lake}{slot=I-toloc.city_name} {turkish=City}{slot=I-toloc.city_name} {turkish=Utah'a}{slot=B-toloc.state_name} {turkish=giden}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

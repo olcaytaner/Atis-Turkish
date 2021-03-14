@@ -1,0 +1,1 @@
+{turkish=yarın}{slot=B-depart_date.today_relative} {turkish=için}{slot=O} {turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=stapleton}{slot=B-toloc.airport_name} {turkish=havalimanına}{slot=I-toloc.airport_name} {turkish=ilk}{slot=B-flight_mod} {turkish=uçuş}{slot=O} {turkish=nedir}{slot=O}

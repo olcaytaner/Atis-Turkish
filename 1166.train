@@ -1,0 +1,1 @@
+{turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=US}{slot=B-airline_code} {turkish=281}{slot=B-flight_number} {turkish=sefer}{slot=O} {turkish=sayılı}{slot=O} {turkish=uçuş}{slot=O} {turkish=nerede}{slot=O} {turkish=duruyor}{slot=B-flight_stop}

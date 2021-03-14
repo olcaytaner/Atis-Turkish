@@ -1,0 +1,1 @@
+{turkish=30}{slot=B-depart_date.day_number} {turkish=Eylül'de}{slot=B-depart_date.month_name} {turkish=kalkan}{slot=O} {turkish=Baltimore'den}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=bilet}{slot=O} {turkish=hangisi}{slot=O}

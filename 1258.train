@@ -1,0 +1,1 @@
+{turkish=dallas}{slot=B-fromloc.airport_name} {turkish=havaalanından}{slot=I-fromloc.airport_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=hangi}{slot=O} {turkish=ulaşım}{slot=O} {turkish=mevcut}{slot=O}

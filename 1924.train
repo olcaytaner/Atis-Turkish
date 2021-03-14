@@ -1,0 +1,1 @@
+{turkish=boston-washington}{slot=O} {turkish=arası}{slot=O} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=fiyatı}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

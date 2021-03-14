@@ -1,0 +1,1 @@
+{turkish=tacoma'dan}{slot=B-fromloc.city_name} {turkish=orlando'ya}{slot=B-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=uçak}{slot=O} {turkish=bileti}{slot=O}

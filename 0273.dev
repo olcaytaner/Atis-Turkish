@@ -1,0 +1,1 @@
+{turkish=Detroit'ten}{slot=B-fromloc.city_name} {turkish=St.}{slot=B-toloc.city_name} {turkish=Petersburg'a}{slot=I-toloc.city_name} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=uçak}{slot=O} {turkish=biletlerini}{slot=O} {turkish=listeleyin}{slot=O}

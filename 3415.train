@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Salı}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=New}{slot=B-fromloc.city_name} {turkish=York'tan}{slot=I-fromloc.city_name} {turkish=Miami'ye}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=bütün}{slot=O} {turkish=uçuşları}{slot=O} {turkish=gösterin}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=philadelphia}{slot=B-fromloc.airport_name} {turkish=havaalanından}{slot=I-fromloc.airport_name} {turkish=şehre}{slot=O} {turkish=karayolu}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=uygun}{slot=O}

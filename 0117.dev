@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=Ontario}{slot=B-fromloc.city_name} {turkish=California'dan}{slot=B-fromloc.state_name} {turkish=Orlando}{slot=B-toloc.city_name} {turkish=Florida'ya}{slot=B-toloc.state_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

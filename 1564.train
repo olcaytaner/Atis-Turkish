@@ -1,0 +1,1 @@
+{turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=dallas'a}{slot=B-toloc.city_name} {turkish=27}{slot=B-depart_date.day_number} {turkish=ağustos}{slot=B-depart_date.month_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=630}{slot=B-depart_time.time} {turkish=uçuşu}{slot=O}

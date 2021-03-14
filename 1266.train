@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=love}{slot=B-fromloc.airport_name} {turkish=Field'den}{slot=I-fromloc.airport_name} {turkish=son}{slot=B-flight_mod} {turkish=uçuşu}{slot=O} {turkish=göster}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=st.}{slot=B-toloc.city_name} {turkish=louis'e}{slot=I-toloc.city_name} {turkish=salı}{slot=B-depart_date.day_name} {turkish=230}{slot=B-depart_time.time} {turkish=önceki}{slot=B-depart_time.time_relative} {turkish=uçuşlar}{slot=O}

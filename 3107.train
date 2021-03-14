@@ -1,0 +1,1 @@
+{turkish=merhaba}{slot=O} {turkish=san}{slot=B-fromloc.city_name} {turkish=diego'dan}{slot=I-fromloc.city_name} {turkish=toronto'ya}{slot=B-toloc.city_name} {turkish=alaska}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=ile}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=istiyorum}{slot=O} {turkish=lütfen}{slot=O}

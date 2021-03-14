@@ -1,0 +1,1 @@
+{turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=BWI'ye}{slot=B-toloc.airport_code} {turkish=olan}{slot=O} {turkish=akşam}{slot=B-meal_description} {turkish=yemeği}{slot=B-meal_description} {turkish=servisi}{slot=O} {turkish=yapan}{slot=O} {turkish=en}{slot=B-flight_mod} {turkish=erken}{slot=I-flight_mod} {turkish=uçuş}{slot=O} {turkish=nedir}{slot=O}

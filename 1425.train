@@ -1,0 +1,1 @@
+{turkish=1}{slot=B-depart_date.day_number} {turkish=Aralık'taki}{slot=B-depart_date.month_name} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'dan}{slot=I-fromloc.city_name} {turkish=Washington}{slot=B-toloc.city_name} {turkish=DC'ye}{slot=B-toloc.state_code} {turkish=uçuşları}{slot=O} {turkish=ver}{slot=O}

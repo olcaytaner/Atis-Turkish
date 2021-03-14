@@ -1,0 +1,1 @@
+{turkish=22}{slot=B-depart_date.day_number} {turkish=mayıs}{slot=B-depart_date.month_name} {turkish=cumartesi}{slot=B-depart_date.day_name} {turkish=las}{slot=B-fromloc.city_name} {turkish=vegas'tan}{slot=I-fromloc.city_name} {turkish=Burbank'a}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O}

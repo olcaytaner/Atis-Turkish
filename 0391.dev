@@ -1,0 +1,1 @@
+{turkish=United}{slot=B-airline_name} {turkish=Airlines'in}{slot=I-airline_name} {turkish=yirmi}{slot=B-depart_date.day_number} {turkish=eylül}{slot=B-depart_date.month_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=uçuşları}{slot=O} {turkish=hangileri}{slot=O}

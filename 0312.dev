@@ -1,0 +1,1 @@
+{turkish=Dallas'tan}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=yaklaşık}{slot=B-depart_time.time_relative} {turkish=615'te}{slot=B-depart_time.time} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

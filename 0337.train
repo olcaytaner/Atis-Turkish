@@ -1,0 +1,1 @@
+{turkish=New}{slot=B-city_name} {turkish=York'taki}{slot=I-city_name} {turkish=La}{slot=B-airport_name} {turkish=Guardia}{slot=I-airport_name} {turkish=şehir}{slot=O} {turkish=merkezinden}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O} {turkish=uzakta}{slot=O}

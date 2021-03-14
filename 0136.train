@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name} {turkish=öğlen}{slot=B-depart_time.start_time} {turkish=ve}{slot=O} {turkish=saat}{slot=O} {turkish=5}{slot=B-depart_time.end_time} {turkish=arasında}{slot=O} {turkish=kalkan}{slot=O} {turkish=uçuş}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

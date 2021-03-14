@@ -1,0 +1,1 @@
+{turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=akşam}{slot=B-depart_time.start_time} {turkish=8}{slot=I-depart_time.start_time} {turkish=ile}{slot=O} {turkish=9}{slot=B-depart_time.end_time} {turkish=saatleri}{slot=O} {turkish=arasında}{slot=O} {turkish=kalkan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

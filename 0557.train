@@ -1,0 +1,1 @@
+{turkish=30}{slot=B-depart_date.day_number} {turkish=Ağustos}{slot=B-depart_date.month_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Pittsburgh'a}{slot=B-toloc.city_name} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=direkt}{slot=B-connect} {turkish=uçuş}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=akşam}{slot=B-depart_time.period_of_day} {turkish=saatlerinde}{slot=O} {turkish=milwaukee'den}{slot=B-fromloc.city_name} {turkish=tacoma}{slot=B-toloc.city_name} {turkish=washington'a}{slot=B-toloc.state_name} {turkish=yapılacak}{slot=O} {turkish=uçuşların}{slot=O} {turkish=listesini}{slot=O} {turkish=alabilir}{slot=O} {turkish=miyim}{slot=O}

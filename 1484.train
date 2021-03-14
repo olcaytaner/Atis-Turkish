@@ -1,0 +1,1 @@
+{turkish=Los}{slot=B-fromloc.city_name} {turkish=Angeles'ten}{slot=I-fromloc.city_name} {turkish=Tacoma}{slot=B-toloc.city_name} {turkish=Washington'a}{slot=B-toloc.state_name} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=bilet}{slot=O} {turkish=istiyorum}{slot=O}

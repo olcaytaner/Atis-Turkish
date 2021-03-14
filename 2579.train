@@ -1,0 +1,1 @@
+{turkish=denver'den}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=uçmanın}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=yolunu}{slot=O} {turkish=bilmek}{slot=O} {turkish=istiyorum}{slot=O}

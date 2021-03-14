@@ -1,0 +1,1 @@
+{turkish=4}{slot=B-depart_date.day_number} {turkish=Mayıs}{slot=B-depart_date.month_name} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=Delta}{slot=B-airline_name} {turkish=257}{slot=B-flight_number} {turkish=uçuşuna}{slot=O}

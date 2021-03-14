@@ -1,0 +1,1 @@
+{turkish=on}{slot=O} {turkish=dokuzu}{slot=B-depart_date.day_number} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=tacoma'dan}{slot=B-fromloc.city_name} {turkish=san}{slot=B-toloc.city_name} {turkish=jose'ye}{slot=I-toloc.city_name} {turkish=uçuşlar}{slot=O} {turkish=nelerdir}{slot=O}

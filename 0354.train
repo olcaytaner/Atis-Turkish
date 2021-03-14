@@ -1,0 +1,1 @@
+{turkish=Boston}{slot=B-fromloc.airport_name} {turkish=Havaalanı}{slot=I-fromloc.airport_name} {turkish=ile}{slot=O} {turkish=Boston}{slot=B-city_name} {turkish=şehir}{slot=O} {turkish=merkezi}{slot=O} {turkish=arasındaki}{slot=O} {turkish=mesafeyi}{slot=O} {turkish=mil}{slot=O} {turkish=cinsinden}{slot=O} {turkish=listele}{slot=O}

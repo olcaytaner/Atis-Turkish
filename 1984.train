@@ -1,0 +1,1 @@
+{turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=gecesi}{slot=B-depart_time.period_of_day} {turkish=Charlotte'den}{slot=B-fromloc.city_name} {turkish=La'ya}{slot=B-toloc.city_name} {turkish=ekonomi}{slot=B-class_type} {turkish=sınıfı}{slot=O} {turkish=fiyatları}{slot=O} {turkish=ne}{slot=O}

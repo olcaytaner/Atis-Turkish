@@ -1,0 +1,1 @@
+{turkish=Philadelphia'dan}{slot=B-fromloc.city_name} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=B-depart_time.period_of_day} {turkish=ayrılan}{slot=O} {turkish=ve}{slot=O} {turkish=akşam}{slot=B-arrive_time.period_of_day} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=varan}{slot=O} {turkish=uçağı}{slot=O} {turkish=göster}{slot=O}

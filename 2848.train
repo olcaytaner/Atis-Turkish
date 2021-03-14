@@ -1,0 +1,1 @@
+{turkish=Newark'tan}{slot=B-fromloc.city_name} {turkish=Tampa'ya}{slot=B-toloc.city_name} {turkish=4}{slot=B-depart_date.day_number} {turkish=Nisan'da}{slot=B-depart_date.month_name} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=rezervasyonu}{slot=O} {turkish=yapmam}{slot=O} {turkish=gerekiyor}{slot=O}

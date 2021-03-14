@@ -1,0 +1,1 @@
+{turkish=Miami'den}{slot=B-fromloc.city_name} {turkish=Cleveland'a}{slot=B-toloc.city_name} {turkish=önümüzdeki}{slot=B-depart_date.date_relative} {turkish=pazar}{slot=B-depart_date.day_name} {turkish=1200}{slot=B-depart_time.time} {turkish=sonrası}{slot=B-depart_time.time_relative} {turkish=uçuşları}{slot=O}

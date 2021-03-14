@@ -1,0 +1,1 @@
+{turkish=Alaska}{slot=B-airline_name} {turkish=Airline'nin}{slot=I-airline_name} {turkish=Burbank}{slot=B-fromloc.city_name} {turkish=kalkışlı}{slot=O} {turkish=uçuşlarını}{slot=O} {turkish=listeleyin}{slot=O}

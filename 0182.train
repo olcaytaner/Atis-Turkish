@@ -1,0 +1,1 @@
+{turkish=Ontario}{slot=B-airport_name} {turkish=Havaalanı'nda}{slot=I-airport_name} {turkish=taksi}{slot=B-transport_type} {turkish=hizmeti}{slot=I-transport_type} {turkish=var}{slot=O} {turkish=mı}{slot=O}

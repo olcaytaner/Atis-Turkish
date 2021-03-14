@@ -1,0 +1,1 @@
+{turkish=Havaalanı}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco'dan}{slot=I-fromloc.city_name} {turkish=ne}{slot=O} {turkish=kadar}{slot=O} {turkish=uzakta}{slot=O}

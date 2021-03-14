@@ -1,0 +1,1 @@
+{turkish=Washington}{slot=B-fromloc.airport_name} {turkish=Havalimanı'ndan}{slot=I-fromloc.airport_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=karayolu}{slot=O} {turkish=ulaşımının}{slot=O} {turkish=programı}{slot=B-flight_time} {turkish=nedir}{slot=O}

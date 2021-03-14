@@ -1,0 +1,1 @@
+{turkish=özür}{slot=O} {turkish=dilerim}{slot=O} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=denver}{slot=B-toloc.city_name} {turkish=colorado'ya}{slot=B-toloc.state_name} {turkish=uçuş}{slot=O} {turkish=rezervasyonu}{slot=O} {turkish=yapmak}{slot=O} {turkish=istiyorum}{slot=O}

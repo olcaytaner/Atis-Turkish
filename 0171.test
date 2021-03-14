@@ -1,0 +1,1 @@
+{turkish=washington}{slot=B-fromloc.city_name} {turkish=dc'den}{slot=B-fromloc.state_code} {turkish=columbus'a}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=havayolları}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=DC}{slot=B-toloc.state_code} {turkish=arasındaki}{slot=O} {turkish=US}{slot=B-airline_name} {turkish=Air}{slot=I-airline_name} {turkish=uçuşlarının}{slot=O} {turkish=listesini}{slot=O} {turkish=göster}{slot=O}

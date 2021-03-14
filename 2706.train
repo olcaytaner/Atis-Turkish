@@ -1,0 +1,1 @@
+{turkish=gece}{slot=B-depart_time.period_of_day} {turkish=yarısı}{slot=B-depart_time.period_of_day} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=seyahat}{slot=O} {turkish=etmek}{slot=O} {turkish=istiyorum}{slot=O} {turkish=bana}{slot=O} {turkish=uçuşları}{slot=O} {turkish=söyleyebilir}{slot=O} {turkish=misin}{slot=O}

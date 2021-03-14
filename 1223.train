@@ -1,0 +1,1 @@
+{turkish=orlando}{slot=B-fromloc.airport_name} {turkish=international}{slot=I-fromloc.airport_name} {turkish=ile}{slot=O} {turkish=orlando}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=karayolu}{slot=O} {turkish=ulaşımını}{slot=O} {turkish=anlat}{slot=O}

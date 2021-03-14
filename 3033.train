@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=boston}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=denver}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=Continental}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=uçuşlarının}{slot=O} {turkish=listesini}{slot=O} {turkish=ver}{slot=O}

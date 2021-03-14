@@ -1,0 +1,1 @@
+{turkish=Lütfen}{slot=O} {turkish=Delta'da}{slot=B-airline_name} {turkish=Philadelphia'dan}{slot=B-fromloc.city_name} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco'ya}{slot=I-toloc.city_name} {turkish=olan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuş}{slot=O} {turkish=bulun}{slot=O}

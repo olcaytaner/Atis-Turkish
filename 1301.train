@@ -1,0 +1,1 @@
+{turkish=bugün}{slot=B-depart_date.today_relative} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco'dan}{slot=I-fromloc.city_name} {turkish=detroit}{slot=B-toloc.city_name} {turkish=michigan'a}{slot=B-toloc.state_name} {turkish=uçak}{slot=O} {turkish=bileti}{slot=O} {turkish=alabilir}{slot=O} {turkish=miyim}{slot=O}

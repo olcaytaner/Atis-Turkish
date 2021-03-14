@@ -1,0 +1,1 @@
+{turkish=nashville'den}{slot=B-fromloc.city_name} {turkish=st.}{slot=B-toloc.city_name} {turkish=Petersburg'a}{slot=I-toloc.city_name} {turkish=en}{slot=B-mod} {turkish=kısa}{slot=B-flight_mod} {turkish=uçuşlar}{slot=O}

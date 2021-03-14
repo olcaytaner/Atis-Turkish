@@ -1,0 +1,1 @@
+{turkish=Philadephia}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco}{slot=I-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=gece}{slot=B-depart_time.period_of_day} {turkish=uçuşlarının}{slot=O} {turkish=fiyatlarını}{slot=O} {turkish=gösterin}{slot=O}

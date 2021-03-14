@@ -1,0 +1,1 @@
+{turkish=akşam}{slot=B-arrive_time.period_of_day} {turkish=6'da}{slot=B-arrive_time.time} {turkish=Detroit'e}{slot=B-toloc.city_name} {turkish=varmak}{slot=O} {turkish=istiyorum}{slot=O} {turkish=ve}{slot=O} {turkish=chicago'dan}{slot=B-fromloc.city_name} {turkish=yola}{slot=O} {turkish=çıkacağım}{slot=O}

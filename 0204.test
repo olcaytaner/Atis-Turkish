@@ -1,0 +1,1 @@
+{turkish=northwest'in}{slot=B-airline_name} {turkish=Dulles'ten}{slot=B-fromloc.airport_name} {turkish=ayrılan}{slot=O} {turkish=kaç}{slot=O} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O}

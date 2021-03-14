@@ -1,0 +1,1 @@
+{turkish=kansas}{slot=B-fromloc.city_name} {turkish=şehrinden}{slot=I-fromloc.city_name} {turkish=minneapolis}{slot=B-toloc.city_name} {turkish=uçuşlarına}{slot=O} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=ücreti}{slot=O} {turkish=listeleyin}{slot=O}

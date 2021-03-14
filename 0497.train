@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=philadelphia'ya}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=ekonomi}{slot=B-economy} {turkish=ücretlerini}{slot=O} {turkish=görmek}{slot=O} {turkish=istiyorum}{slot=O}

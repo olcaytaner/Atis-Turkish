@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Oakland}{slot=B-toloc.airport_name} {turkish=Havaalanı'na}{slot=I-toloc.airport_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=mevcut}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=22}{slot=B-depart_date.day_number} {turkish=Temmuz'da}{slot=B-depart_date.month_name} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=DC'ye}{slot=B-toloc.state_code} {turkish=American}{slot=B-airline_name} {turkish=Airlines}{slot=I-airline_name} {turkish=uçuşlarının}{slot=O} {turkish=listesini}{slot=O} {turkish=göster}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Northwest}{slot=B-airline_name} {turkish=havayollarının}{slot=I-airline_name} {turkish=hangi}{slot=O} {turkish=uçuşları}{slot=O} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=denver'den}{slot=B-fromloc.city_name} {turkish=ayrılıyor}{slot=O}

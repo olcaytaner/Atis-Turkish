@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=nashville'den}{slot=B-fromloc.city_name} {turkish=st.}{slot=B-toloc.city_name} {turkish=louis'e}{slot=I-toloc.city_name} {turkish=aktarmasız}{slot=B-flight_stop} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

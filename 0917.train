@@ -1,0 +1,1 @@
+{turkish=Q}{slot=B-fare_basis_code} {turkish=fiyat}{slot=O} {turkish=baz}{slot=O} {turkish=koduyla}{slot=O} {turkish=cumartesi}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Orlando'dan}{slot=B-fromloc.city_name} {turkish=Tacoma'ya}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

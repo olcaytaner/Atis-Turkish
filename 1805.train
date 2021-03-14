@@ -1,0 +1,1 @@
+{turkish=hangi}{slot=O} {turkish=havayollarının}{slot=O} {turkish=pittsburgh'la}{slot=B-fromloc.city_name} {turkish=baltimore}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=bağlantısı}{slot=O} {turkish=var}{slot=O}

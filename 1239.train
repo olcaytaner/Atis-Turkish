@@ -1,0 +1,1 @@
+{turkish=pittsburgh}{slot=B-fromloc.airport_name} {turkish=havaalanından}{slot=I-fromloc.airport_name} {turkish=şehre}{slot=O} {turkish=hangi}{slot=O} {turkish=kara}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=mevcut}{slot=O}

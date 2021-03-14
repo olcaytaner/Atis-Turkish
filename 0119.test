@@ -1,0 +1,1 @@
+{turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco'dan}{slot=I-fromloc.city_name} {turkish=boston'a}{slot=B-toloc.city_name} {turkish=uçuş}{slot=B-flight_time} {turkish=tarifesi}{slot=I-flight_time} {turkish=rica}{slot=O} {turkish=ediyorum}{slot=O}

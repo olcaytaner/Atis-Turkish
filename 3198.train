@@ -1,0 +1,1 @@
+{turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=cincinnati'den}{slot=B-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=ve}{slot=O} {turkish=Tampa'ya}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=var}{slot=O}

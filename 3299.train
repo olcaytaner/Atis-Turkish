@@ -1,0 +1,1 @@
+{turkish=newark'tan}{slot=B-fromloc.city_name} {turkish=los}{slot=B-toloc.city_name} {turkish=angeles'e}{slot=I-toloc.city_name} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=uçuşları}{slot=O}

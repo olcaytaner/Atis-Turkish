@@ -1,0 +1,1 @@
+{turkish=bugün}{slot=B-depart_date.today_relative} {turkish=hangi}{slot=O} {turkish=havayollarının}{slot=O} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=uçuşları}{slot=O} {turkish=var}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=beni}{slot=O} {turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=oradan}{slot=O} {turkish=da}{slot=O} {turkish=san}{slot=B-toloc.city_name} {turkish=francisco'ya}{slot=I-toloc.city_name} {turkish=hangi}{slot=O} {turkish=havayolu}{slot=O} {turkish=götürebilir}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=ontario'dan}{slot=B-fromloc.city_name} {turkish=orlando'ya}{slot=B-toloc.city_name} {turkish=varmadan}{slot=O} {turkish=9}{slot=B-depart_time.time} {turkish=saat}{slot=O} {turkish=önce}{slot=B-depart_time.time_relative} {turkish=kalkan}{slot=O} {turkish=uçuş}{slot=O}

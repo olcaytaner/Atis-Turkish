@@ -1,0 +1,1 @@
+{turkish=lütfen}{slot=O} {turkish=genel}{slot=B-fromloc.airport_name} {turkish=mitchell}{slot=I-fromloc.airport_name} {turkish=uluslararası}{slot=I-fromloc.airport_name} {turkish=havalimanına}{slot=I-fromloc.airport_name} {turkish=kalkan}{slot=O} {turkish=ve}{slot=O} {turkish=inen}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

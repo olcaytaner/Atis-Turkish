@@ -1,0 +1,1 @@
+{turkish=Philadelphia}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Boston}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=ucuz}{slot=I-cost_relative} {turkish=tek}{slot=B-round_trip} {turkish=yön}{slot=I-round_trip} {turkish=ücret}{slot=O} {turkish=nedir}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=oakland'a}{slot=B-toloc.city_name} {turkish=sabah}{slot=B-arrive_time.period_of_day} {turkish=10'dan}{slot=B-arrive_time.time} {turkish=sonra}{slot=B-arrive_time.time_relative} {turkish=varan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=bana}{slot=O} {turkish=göster}{slot=O}

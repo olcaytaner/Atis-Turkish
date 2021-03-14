@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=güneybatı}{slot=B-airline_name} {turkish=havayollarının}{slot=I-airline_name} {turkish=san}{slot=B-fromloc.city_name} {turkish=diego'dan}{slot=I-fromloc.city_name} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco'ya}{slot=I-toloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=göster}{slot=O}

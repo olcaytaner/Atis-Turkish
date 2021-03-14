@@ -1,0 +1,1 @@
+{turkish=önümüzdeki}{slot=B-depart_date.date_relative} {turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=burbank'tan}{slot=B-fromloc.city_name} {turkish=milwaukee'ye}{slot=B-toloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=uçağına}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

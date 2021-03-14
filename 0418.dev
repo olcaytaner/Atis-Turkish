@@ -1,0 +1,1 @@
+{turkish=San}{slot=B-fromloc.city_name} {turkish=Francisco}{slot=I-fromloc.city_name} {turkish=kalkışlı}{slot=O} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=Us}{slot=B-airline_name} {turkish=Air}{slot=I-airline_name} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

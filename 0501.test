@@ -1,0 +1,1 @@
+{turkish=cuma}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Oakland'dan}{slot=B-fromloc.city_name} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=uçuşlar}{slot=O}

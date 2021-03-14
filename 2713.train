@@ -1,0 +1,1 @@
+{turkish=2134'ten}{slot=B-depart_time.time} {turkish=sonra}{slot=B-depart_time.time_relative} {turkish=pazar}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=denver'den}{slot=B-fromloc.city_name} {turkish=ayrılan}{slot=O} {turkish=Continental}{slot=B-airline_name} {turkish=üzerindeki}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=las}{slot=B-fromloc.city_name} {turkish=vegas'tan}{slot=I-fromloc.city_name} {turkish=detroit}{slot=B-toloc.city_name} {turkish=michigan'a}{slot=B-toloc.state_name} {turkish=uçmak}{slot=O} {turkish=istiyorum}{slot=O}

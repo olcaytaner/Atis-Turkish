@@ -1,0 +1,1 @@
+{turkish=washington'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=uçuyoruz}{slot=O} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=bilet}{slot=O} {turkish=fiyatını}{slot=O} {turkish=öğrenmek}{slot=O} {turkish=istiyorum}{slot=O}

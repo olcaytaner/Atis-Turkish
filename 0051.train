@@ -1,0 +1,1 @@
+{turkish=Washington}{slot=B-city_name} {turkish=DC'de}{slot=B-state_code} {turkish=bir}{slot=O} {turkish=araba}{slot=B-transport_type} {turkish=kiralamam}{slot=I-transport_type} {turkish=gerekecek}{slot=O}

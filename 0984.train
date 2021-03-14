@@ -1,0 +1,1 @@
+{turkish=Herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=havayolu}{slot=O} {turkish=Denver}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Boston}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=dc10}{slot=B-aircraft_code} {turkish=hizmeti}{slot=O} {turkish=sunuyor}{slot=O} {turkish=mu}{slot=O}

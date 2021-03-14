@@ -1,0 +1,1 @@
+{turkish=on}{slot=B-depart_date.day_number} {turkish=yedi}{slot=I-depart_date.day_number} {turkish=aralıkta}{slot=B-depart_date.month_name} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=turboprop}{slot=O} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

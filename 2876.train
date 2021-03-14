@@ -1,0 +1,1 @@
+{turkish=1}{slot=B-depart_date.day_number} {turkish=Ağustosta}{slot=B-depart_date.month_name} {turkish=san}{slot=B-fromloc.city_name} {turkish=francisco'dan}{slot=I-fromloc.city_name} {turkish=kalkan}{slot=O} {turkish=uçuşlar}{slot=O}

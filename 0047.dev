@@ -1,0 +1,1 @@
+{turkish=Atlanta}{slot=B-fromloc.airport_name} {turkish=Havaalanı'ndan}{slot=I-fromloc.airport_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=limuzinle}{slot=B-transport_type} {turkish=gitmenin}{slot=O} {turkish=maliyeti}{slot=O} {turkish=nedir}{slot=O}

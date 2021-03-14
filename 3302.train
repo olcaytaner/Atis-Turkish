@@ -1,0 +1,1 @@
+{turkish=Salı}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=saatlerinde}{slot=O} {turkish=ayrılmak}{slot=O} {turkish=istiyorum}{slot=O}

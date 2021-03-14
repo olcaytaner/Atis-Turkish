@@ -1,0 +1,1 @@
+{turkish=Chicago'dan}{slot=B-fromloc.city_name} {turkish=Las}{slot=B-toloc.city_name} {turkish=Vegas'a}{slot=I-toloc.city_name} {turkish=cumartesi}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day}

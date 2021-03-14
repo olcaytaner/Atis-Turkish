@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=haftanın}{slot=O} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=gününde}{slot=O} {turkish=en}{slot=B-mod} {turkish=erken}{slot=B-flight_mod} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=Atlanta}{slot=B-toloc.city_name} {turkish=uçuşunu}{slot=O} {turkish=bul}{slot=O}

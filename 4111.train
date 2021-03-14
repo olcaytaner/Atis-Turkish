@@ -1,0 +1,1 @@
+{turkish=Şimdi}{slot=O} {turkish=bana}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=gösterin}{slot=O}

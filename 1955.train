@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=20}{slot=B-depart_date.day_number} {turkish=haziranda}{slot=B-depart_date.month_name} {turkish=boston}{slot=B-fromloc.city_name} {turkish=kalkışlı}{slot=O} {turkish=tüm}{slot=O} {turkish=business}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

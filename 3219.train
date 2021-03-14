@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=gecesi}{slot=B-depart_time.period_of_day} {turkish=milwaukee-orlando}{slot=B-fromloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=göster}{slot=O}

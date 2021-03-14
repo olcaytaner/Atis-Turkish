@@ -1,0 +1,1 @@
+{turkish=cumartesi}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=bana}{slot=O} {turkish=Chicago'dan}{slot=B-fromloc.city_name} {turkish=Seattle'ye}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=ver}{slot=O}

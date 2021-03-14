@@ -1,0 +1,1 @@
+{turkish=Boston}{slot=B-city_name} {turkish=şehri}{slot=I-city_name} {turkish=için}{slot=O} {turkish=limuzin}{slot=B-transport_type} {turkish=ücretlerini}{slot=O} {turkish=listeleyin}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Önümüzdeki}{slot=B-depart_date.date_relative} {turkish=pazar}{slot=B-depart_date.day_name} {turkish=yapılacak}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Jose}{slot=I-fromloc.city_name} {turkish=-}{slot=O} {turkish=Houston}{slot=B-toloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=listele}{slot=O}

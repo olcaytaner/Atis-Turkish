@@ -1,0 +1,1 @@
+{turkish=Merhaba.}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name} {turkish=Delta}{slot=B-airline_name} {turkish=uçuşu}{slot=O} {turkish=istiyorum}{slot=O}

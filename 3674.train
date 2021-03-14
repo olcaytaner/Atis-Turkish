@@ -1,0 +1,1 @@
+{turkish=Şimdi}{slot=O} {turkish=Salı}{slot=B-depart_date.day_name} {turkish=Phoenix'den}{slot=B-fromloc.city_name} {turkish=Detroit'e}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=bir}{slot=O} {turkish=uçuşa}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

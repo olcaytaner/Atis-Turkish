@@ -1,0 +1,1 @@
+{turkish=delta'yla}{slot=B-airline_name} {turkish=boston'la}{slot=B-fromloc.city_name} {turkish=atlanta}{slot=B-toloc.city_name} {turkish=arası}{slot=O} {turkish=ekonomi}{slot=B-class_type} {turkish=bileti}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

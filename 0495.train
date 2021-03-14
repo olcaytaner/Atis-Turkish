@@ -1,0 +1,1 @@
+{turkish=tamam}{slot=O} {turkish=United'in}{slot=B-airline_name} {turkish=Dallas}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Baltimore}{slot=B-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=ekonomi}{slot=B-economy} {turkish=uçuşlarını}{slot=O} {turkish=görmem}{slot=O} {turkish=gerekiyor}{slot=O}

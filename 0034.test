@@ -1,0 +1,1 @@
+{turkish=bwi'den}{slot=B-fromloc.airport_code} {turkish=salt}{slot=B-toloc.city_name} {turkish=lake}{slot=I-toloc.city_name} {turkish=City'e}{slot=I-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=düşük}{slot=I-cost_relative} {turkish=ücret}{slot=O} {turkish=nedir}{slot=O}

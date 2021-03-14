@@ -1,0 +1,1 @@
+{turkish=hem}{slot=O} {turkish=amerikan}{slot=B-airline_name} {turkish=hem}{slot=O} {turkish=delta}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=tarafından}{slot=O} {turkish=hangi}{slot=O} {turkish=şehirlere}{slot=O} {turkish=hizmet}{slot=O} {turkish=verilmektedir}{slot=O}

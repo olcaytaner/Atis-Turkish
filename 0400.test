@@ -1,0 +1,1 @@
+{turkish=Long}{slot=B-fromloc.city_name} {turkish=Beach'ten}{slot=I-fromloc.city_name} {turkish=Columbus'a}{slot=B-toloc.city_name} {turkish=altı}{slot=B-depart_date.day_number} {turkish=Nisan}{slot=B-depart_date.month_name} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=uçuş}{slot=O} {turkish=var}{slot=O} {turkish=mı}{slot=O}

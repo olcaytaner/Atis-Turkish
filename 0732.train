@@ -1,0 +1,1 @@
+{turkish=Long}{slot=B-fromloc.airport_name} {turkish=Beach}{slot=I-fromloc.airport_name} {turkish=Havaalanı'ndan}{slot=I-fromloc.airport_name} {turkish=Long}{slot=B-fromloc.city_name} {turkish=Beach}{slot=I-fromloc.city_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=taksi}{slot=B-transport_type} {turkish=bulabilir}{slot=O} {turkish=miyim}{slot=O}

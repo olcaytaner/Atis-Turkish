@@ -1,0 +1,1 @@
+{turkish=Hangi}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=kalkıyor}{slot=O} {turkish=ve}{slot=O} {turkish=Toronto'ya}{slot=B-toloc.city_name} {turkish=varıyor}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=herhangi}{slot=O} {turkish=bir}{slot=O} {turkish=yerden}{slot=O} {turkish=philadelphia'ya}{slot=B-toloc.city_name} {turkish=2100'den}{slot=B-arrive_time.time} {turkish=sonra}{slot=B-arrive_time.time_relative} {turkish=varacak}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

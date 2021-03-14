@@ -1,0 +1,1 @@
+{turkish=Sabah}{slot=B-depart_time.period_of_day} {turkish=erkenden}{slot=B-depart_time.period_of_day} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=Washington}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=yolculuk}{slot=O} {turkish=yapmak}{slot=O} {turkish=istiyorum}{slot=O}

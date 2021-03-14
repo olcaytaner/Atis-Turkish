@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=montreal}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=orlando}{slot=B-toloc.city_name} {turkish=arasında}{slot=O} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=uçuşlarını}{slot=O} {turkish=göster}{slot=O}

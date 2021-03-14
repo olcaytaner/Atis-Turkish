@@ -1,0 +1,1 @@
+{turkish=American}{slot=B-airline_name} {turkish=Airlines'ten}{slot=I-airline_name} {turkish=Cincinnati'den}{slot=B-fromloc.city_name} {turkish=Burbank'a}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=bir}{slot=O} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=I-depart_time.period_of_day} {turkish=bileti}{slot=O} {turkish=istiyorum}{slot=O}

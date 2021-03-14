@@ -1,0 +1,1 @@
+{turkish=Delta'nın}{slot=B-airline_name} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=giden}{slot=O} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=uçuşlarının}{slot=O} {turkish=programı}{slot=B-flight_time} {turkish=nasıl}{slot=O}

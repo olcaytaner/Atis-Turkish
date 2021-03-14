@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Salı}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Los}{slot=B-fromloc.city_name} {turkish=Angeles'ten}{slot=I-fromloc.city_name} {turkish=Pittsburgh'a}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=bütün}{slot=O} {turkish=uçuşları}{slot=O} {turkish=verin}{slot=O}

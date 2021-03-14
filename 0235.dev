@@ -1,0 +1,1 @@
+{turkish=Columbus'tan}{slot=B-fromloc.city_name} {turkish=Milwaukee'ye}{slot=B-toloc.city_name} {turkish=TWA}{slot=B-airline_code} {turkish=ile}{slot=O} {turkish=uçmanın}{slot=O} {turkish=maliyeti}{slot=O} {turkish=nedir}{slot=O}

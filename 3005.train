@@ -1,0 +1,1 @@
+{turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=American}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=phoenix}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=milwaukee}{slot=B-toloc.city_name} {turkish=uçuşlarını}{slot=O} {turkish=listele}{slot=O}

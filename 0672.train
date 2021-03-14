@@ -1,0 +1,1 @@
+{turkish=Delta}{slot=B-airline_name} {turkish=Airlines'in}{slot=I-airline_name} {turkish=kaç}{slot=O} {turkish=tane}{slot=O} {turkish=birinci}{slot=B-class_type} {turkish=sınıf}{slot=I-class_type} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O}

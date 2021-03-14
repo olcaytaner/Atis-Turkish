@@ -1,0 +1,1 @@
+{turkish=Altı}{slot=B-depart_date.day_number} {turkish=ağustos}{slot=B-depart_date.month_name} {turkish=akşamı}{slot=B-depart_time.period_of_day} {turkish=olan}{slot=O} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=uçuşları}{slot=O} {turkish=listeleyin}{slot=O}

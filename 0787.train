@@ -1,0 +1,1 @@
+{turkish=Delta'nın}{slot=B-airline_name} {turkish=Boston}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=San}{slot=B-toloc.city_name} {turkish=Francisco}{slot=I-toloc.city_name} {turkish=arasındaki}{slot=O} {turkish=en}{slot=B-cost_relative} {turkish=düşük}{slot=I-cost_relative} {turkish=maliyetli}{slot=I-cost_relative} {turkish=tarifesi}{slot=O} {turkish=nedir}{slot=O}

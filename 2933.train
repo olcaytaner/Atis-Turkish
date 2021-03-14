@@ -1,0 +1,1 @@
+{turkish=atlanta}{slot=B-fromloc.city_name} {turkish=-}{slot=O} {turkish=boston}{slot=B-toloc.city_name} {turkish=arası}{slot=O} {turkish=Eastern}{slot=B-airline_name} {turkish=havayolları}{slot=I-airline_name} {turkish=ile}{slot=O} {turkish=uçuşun}{slot=O} {turkish=maliyeti}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

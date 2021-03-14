@@ -1,0 +1,1 @@
+{turkish=Continental}{slot=B-airline_name} {turkish=havayollarını}{slot=I-airline_name} {turkish=kullanarak}{slot=O} {turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=Oakland'a}{slot=B-toloc.city_name} {turkish=günlük}{slot=B-flight_days} {turkish=uçuşları}{slot=O} {turkish=listele}{slot=O}

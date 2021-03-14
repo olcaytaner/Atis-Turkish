@@ -1,0 +1,1 @@
+{turkish=bu}{slot=B-depart_date.today_relative} {turkish=öğleden}{slot=B-depart_time.period_of_day} {turkish=sonra}{slot=I-depart_time.period_of_day} {turkish=Logan'dan}{slot=B-fromloc.airport_name} {turkish=Atlanta'ya}{slot=B-toloc.city_name} {turkish=uçağa}{slot=O} {turkish=ihtiyacım}{slot=O} {turkish=var}{slot=O}

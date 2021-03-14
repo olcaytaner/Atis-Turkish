@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=Washington'a}{slot=B-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşları}{slot=O} {turkish=gösterin}{slot=O}

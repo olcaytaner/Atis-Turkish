@@ -1,0 +1,1 @@
+{turkish=twa'nın}{slot=B-airline_code} {turkish=business}{slot=B-class_type} {turkish=class'ta}{slot=I-class_type} {turkish=kaç}{slot=O} {turkish=uçuşu}{slot=O} {turkish=var}{slot=O}

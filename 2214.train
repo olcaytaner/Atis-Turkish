@@ -1,0 +1,1 @@
+{turkish=Boston'daki}{slot=B-fromloc.city_name} {turkish=havalimanından}{slot=O} {turkish=Boston}{slot=B-toloc.city_name} {turkish=şehir}{slot=O} {turkish=merkezine}{slot=O} {turkish=kara}{slot=O} {turkish=ulaşımı}{slot=O}

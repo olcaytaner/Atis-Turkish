@@ -1,0 +1,1 @@
+{turkish=dallas'tan}{slot=B-fromloc.city_name} {turkish=oakland}{slot=B-toloc.city_name} {turkish=california'ya}{slot=B-toloc.state_name} {turkish=pazartesi}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=olan}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=ver}{slot=O} {turkish=lütfen}{slot=O}

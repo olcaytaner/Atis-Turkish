@@ -1,0 +1,1 @@
+{turkish=bana}{slot=O} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=Washington}{slot=B-toloc.city_name} {turkish=DC'ye}{slot=B-toloc.state_code} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

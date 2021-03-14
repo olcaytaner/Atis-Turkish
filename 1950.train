@@ -1,0 +1,1 @@
+{turkish=cuma}{slot=B-depart_date.day_name} {turkish=washington'dan}{slot=B-fromloc.city_name} {turkish=san}{slot=B-toloc.city_name} {turkish=francisco'ya}{slot=I-toloc.city_name} {turkish=bir}{slot=O} {turkish=first}{slot=B-class_type} {turkish=class}{slot=I-class_type} {turkish=bilet}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}

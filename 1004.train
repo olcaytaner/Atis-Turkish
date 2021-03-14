@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=San}{slot=B-fromloc.city_name} {turkish=Jose'den}{slot=I-fromloc.city_name} {turkish=Pittsburgh'a}{slot=B-toloc.city_name} {turkish=atıştırmalık}{slot=B-meal_description} {turkish=servis}{slot=O} {turkish=eden}{slot=O} {turkish=en}{slot=B-flight_mod} {turkish=erken}{slot=I-flight_mod} {turkish=uçuşu}{slot=O} {turkish=göster}{slot=O}

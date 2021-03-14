@@ -1,0 +1,1 @@
+{turkish=9}{slot=B-depart_date.day_number} {turkish=Temmuz}{slot=B-depart_date.month_name} {turkish=akşamı}{slot=B-depart_time.period_of_day} {turkish=Pittsburgh-Boston}{slot=B-fromloc.city_name} {turkish=arası}{slot=O} {turkish=uçuşların}{slot=B-flight_time} {turkish=programları}{slot=I-flight_time} {turkish=nasıl}{slot=O}

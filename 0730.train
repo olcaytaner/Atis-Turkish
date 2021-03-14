@@ -1,0 +1,1 @@
+{turkish=Denver'de}{slot=B-fromloc.city_name} {turkish=Stapleton}{slot=B-fromloc.airport_name} {turkish=Uluslararası}{slot=I-fromloc.airport_name} {turkish=Havaalanı'nda}{slot=I-fromloc.airport_name} {turkish=araba}{slot=B-transport_type} {turkish=kiralanabilir}{slot=O} {turkish=mi}{slot=O}

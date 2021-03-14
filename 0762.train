@@ -1,0 +1,1 @@
+{turkish=Perşembe}{slot=B-depart_date.day_name} {turkish=günü}{slot=O} {turkish=St.Paul}{slot=B-fromloc.city_name} {turkish=Minnesota'dan}{slot=B-fromloc.state_name} {turkish=St.}{slot=B-fromloc.city_name} {turkish=Louis'e}{slot=I-toloc.city_name} {turkish=olan}{slot=O} {turkish=uçuşlar}{slot=O} {turkish=neler}{slot=O}

@@ -1,0 +1,1 @@
+{turkish=Baltimore}{slot=B-fromloc.city_name} {turkish=ve}{slot=O} {turkish=Newark}{slot=B-toloc.city_name} {turkish=New}{slot=B-toloc.state_name} {turkish=Jersey}{slot=I-toloc.state_name} {turkish=arasındaki}{slot=O} {turkish=çarşamba}{slot=B-depart_date.day_name} {turkish=sabah}{slot=B-depart_time.period_of_day} {turkish=uçuşları}{slot=O}

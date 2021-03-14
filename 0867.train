@@ -1,0 +1,1 @@
+{turkish=Bana}{slot=O} {turkish=Philadelphia'ya}{slot=B-toloc.city_name} {turkish=Baltimore}{slot=B-fromloc.city_name} {turkish=Denver}{slot=B-fromloc.city_name} {turkish=veya}{slot=B-or} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=gelen}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=göster}{slot=O}

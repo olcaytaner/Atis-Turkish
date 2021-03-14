@@ -1,0 +1,1 @@
+{turkish=atlanta'dan}{slot=B-fromloc.city_name} {turkish=Denver'e}{slot=B-toloc.city_name} {turkish=perşembe}{slot=B-depart_date.day_name} {turkish=sabahı}{slot=B-depart_time.period_of_day} {turkish=ilk}{slot=B-flight_mod} {turkish=uçuşun}{slot=O} {turkish=ücreti}{slot=O} {turkish=nedir}{slot=O}

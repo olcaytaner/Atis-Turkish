@@ -1,0 +1,1 @@
+{turkish=dallas'tan}{slot=B-fromloc.city_name} {turkish=Baltimore'ye}{slot=B-toloc.city_name} {turkish=en}{slot=B-cost_relative} {turkish=düşük}{slot=B-cost_relative} {turkish=gidiş}{slot=B-round_trip} {turkish=dönüş}{slot=I-round_trip} {turkish=ücreti}{slot=O} {turkish=nedir}{slot=O}

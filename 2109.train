@@ -1,0 +1,1 @@
+{turkish=toronto'dan}{slot=B-fromloc.city_name} {turkish=kalkıp}{slot=O} {turkish=san}{slot=B-toloc.city_name} {turkish=diego'ya}{slot=I-toloc.city_name} {turkish=giden}{slot=O} {turkish=denver}{slot=B-stoploc.city_name} {turkish=aktarmalı}{slot=O} {turkish=tüm}{slot=O} {turkish=uçuşları}{slot=O} {turkish=listeleyebilir}{slot=O} {turkish=misin}{slot=O}
