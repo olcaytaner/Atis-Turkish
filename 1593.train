@@ -1,1 +1,1 @@
-{turkish=ücret}{slot=O} {turkish=kodlarını}{slot=O} {turkish=açıkla}{slot=O}
+{turkish=ücret}{morphologicalAnalysis=ücret+NOUN+A3SG+PNON+NOM}{metaMorphemes=ücret}{slot=O} {turkish=kodlarını}{morphologicalAnalysis=kodla+VERB+POS+AOR^DB+ADJ+ZERO^DB+NOUN+ZERO+A3SG+P3SG+ACC}{metaMorphemes=kodla+Hr+sH+nH}{slot=O} {turkish=açıkla}{morphologicalAnalysis=açıkla+VERB+POS+IMP+A2SG}{metaMorphemes=açıkla}{slot=O}

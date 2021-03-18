@@ -1,1 +1,1 @@
-{turkish=ff}{slot=B-airline_code} {turkish=ne}{slot=O} {turkish=demektir}{slot=O}
+{turkish=ff}{morphologicalAnalysis=ff+NOUN+A3SG+PNON+ACC}{metaMorphemes=ff+yH}{slot=B-airline_code} {turkish=ne}{morphologicalAnalysis=ne+ADV}{metaMorphemes=ne}{slot=O} {turkish=demektir}{morphologicalAnalysis=de+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=de+mAk+DHr}{slot=O}

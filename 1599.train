@@ -1,1 +1,1 @@
-{turkish=dl}{slot=B-airline_code} {turkish=delta}{slot=B-airline_name} {turkish=mı}{slot=O} {turkish=demektir}{slot=O}
+{turkish=dl}{morphologicalAnalysis=dl+NOUN+A3SG+PNON+ACC}{metaMorphemes=dl+yH}{slot=B-airline_code} {turkish=delta}{morphologicalAnalysis=delta+NOUN+A3SG+PNON+NOM}{metaMorphemes=delta}{slot=B-airline_name} {turkish=mı}{morphologicalAnalysis=mı+QUES+PRES+A3SG}{metaMorphemes=mı}{slot=O} {turkish=demektir}{morphologicalAnalysis=de+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=de+mAk+DHr}{slot=O}
