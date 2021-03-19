@@ -1,1 +1,1 @@
-{turkish=AP57}{slot=B-restriction_code} {turkish=kısıtlaması}{slot=O} {turkish=nedir}{slot=O}
+{turkish=AP57}{morphologicalAnalysis=AP57+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=AP57}{slot=B-restriction_code} {turkish=kısıtlaması}{morphologicalAnalysis=kısıtla+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+NOM}{metaMorphemes=kısıtla+mA+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

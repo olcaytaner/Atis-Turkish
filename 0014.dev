@@ -1,1 +1,1 @@
-{turkish=yemek}{slot=O} {turkish=kodu}{slot=O} {turkish=sb}{slot=B-meal_code} {turkish=nedir}{slot=O}
+{turkish=yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek}{slot=O} {turkish=kodu}{morphologicalAnalysis=kod+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kod+sH}{slot=O} {turkish=sb}{morphologicalAnalysis=sb+NOUN+A3SG+PNON+ACC}{metaMorphemes=sb+yH}{slot=B-meal_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

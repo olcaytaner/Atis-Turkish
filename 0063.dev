@@ -1,1 +1,1 @@
-{turkish=Denver'deki}{slot=B-city_name} {turkish=havaalanının}{slot=O} {turkish=adı}{slot=O} {turkish=ne}{slot=O}
+{turkish=Denver'deki}{morphologicalAnalysis=denver+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL}{metaMorphemes=denver+'DA+ki}{slot=B-city_name} {turkish=havaalanının}{morphologicalAnalysis=havaalan+NOUN+A3SG+P3SG+GEN}{metaMorphemes=havaalan+H+nHn}{slot=O} {turkish=adı}{morphologicalAnalysis=ad+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ad+sH}{slot=O} {turkish=ne}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM}{metaMorphemes=ne}{slot=O}

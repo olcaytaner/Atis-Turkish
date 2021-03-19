@@ -1,1 +1,1 @@
-{turkish=Boston'da}{slot=B-city_name} {turkish=kiralık}{slot=B-transport_type} {turkish=arabalar}{slot=I-transport_type}
+{turkish=Boston'da}{morphologicalAnalysis=boston+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=boston+'DA}{slot=B-city_name} {turkish=kiralık}{morphologicalAnalysis=kira+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR}{metaMorphemes=kira+lHk}{slot=B-transport_type} {turkish=arabalar}{morphologicalAnalysis=araba+NOUN+A3PL+PNON+NOM}{metaMorphemes=araba+lAr}{slot=I-transport_type}
