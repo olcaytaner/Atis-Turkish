@@ -1,1 +1,1 @@
-{turkish=TWA'deki}{slot=B-airline_code} {turkish=hizmet}{slot=O} {turkish=sınıfları}{slot=O} {turkish=nelerdir}{slot=O}
+{turkish=TWA'deki}{morphologicalAnalysis=twa+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL}{metaMorphemes=twa+'DA+ki}{slot=B-airline_code} {turkish=hizmet}{morphologicalAnalysis=hizmet+NOUN+A3SG+PNON+NOM}{metaMorphemes=hizmet}{slot=O} {turkish=sınıfları}{morphologicalAnalysis=sınıf+NOUN+A3PL+P3PL+NOM}{metaMorphemes=sınıf+lArH}{slot=O} {turkish=nelerdir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP}{metaMorphemes=ne+lAr+DHr}{slot=O}
