@@ -1,1 +1,1 @@
-{turkish=Bir}{slot=O} {turkish=757}{slot=B-aircraft_code} {turkish=kaç}{slot=O} {turkish=kişi}{slot=O} {turkish=taşır}{slot=O}
+{turkish=Bir}{morphologicalAnalysis=bir+ADJ}{metaMorphemes=bir}{slot=O} {turkish=757}{morphologicalAnalysis=757+NUM+CARD}{metaMorphemes=757}{slot=B-aircraft_code} {turkish=kaç}{morphologicalAnalysis=kaç+ADJ}{metaMorphemes=kaç}{slot=O} {turkish=kişi}{morphologicalAnalysis=kişi+NOUN+A3SG+PNON+NOM}{metaMorphemes=kişi}{slot=O} {turkish=taşır}{morphologicalAnalysis=taşı+VERB+POS+AOR+A3SG}{metaMorphemes=taşı+Hr}{slot=O}

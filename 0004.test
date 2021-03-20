@@ -1,1 +1,1 @@
-{turkish=Yemek}{slot=B-meal} {turkish=kurallarını}{slot=B-meal_code} {turkish=açıklayın}{slot=O}
+{turkish=Yemek}{morphologicalAnalysis=yemek+NOUN+A3SG+PNON+NOM}{metaMorphemes=yemek}{slot=B-meal} {turkish=kurallarını}{morphologicalAnalysis=kural+NOUN+A3PL+P3SG+ACC}{metaMorphemes=kural+lAr+sH+nH}{slot=B-meal_code} {turkish=açıklayın}{morphologicalAnalysis=açıkla+VERB+POS+IMP+A2PL}{metaMorphemes=açıkla+yHn}{slot=O}

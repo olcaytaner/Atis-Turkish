@@ -1,1 +1,1 @@
-{turkish=734'te}{slot=B-aircraft_code} {turkish=kaç}{slot=O} {turkish=koltuk}{slot=O} {turkish=var}{slot=O}
+{turkish=734'te}{morphologicalAnalysis=734+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC}{metaMorphemes=734+'+DA}{slot=B-aircraft_code} {turkish=kaç}{morphologicalAnalysis=kaç+ADJ}{metaMorphemes=kaç}{slot=O} {turkish=koltuk}{morphologicalAnalysis=koltuk+NOUN+A3SG+PNON+NOM}{metaMorphemes=koltuk}{slot=O} {turkish=var}{morphologicalAnalysis=var+VERB+POS+IMP+A2SG}{metaMorphemes=var}{slot=O}

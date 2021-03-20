@@ -1,1 +1,1 @@
-{turkish=72S'nin}{slot=B-aircraft_code} {turkish=oturma}{slot=O} {turkish=kapasitesi}{slot=O} {turkish=nedir}{slot=O}
+{turkish=72S'nin}{morphologicalAnalysis=72S'nin+NOUN+A3SG+PNON+NOM}{metaMorphemes=72S'nin}{slot=B-aircraft_code} {turkish=oturma}{morphologicalAnalysis=otur+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM}{metaMorphemes=otur+mA}{slot=O} {turkish=kapasitesi}{morphologicalAnalysis=kapasite+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kapasite+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

@@ -1,1 +1,1 @@
-{turkish=757'de}{slot=B-aircraft_code} {turkish=kaç}{slot=O} {turkish=yolcu}{slot=O} {turkish=uçabilir}{slot=O}
+{turkish=757'de}{morphologicalAnalysis=757+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC}{metaMorphemes=757+'+DA}{slot=B-aircraft_code} {turkish=kaç}{morphologicalAnalysis=kaç+ADJ}{metaMorphemes=kaç}{slot=O} {turkish=yolcu}{morphologicalAnalysis=yolcu+NOUN+A3SG+PNON+NOM}{metaMorphemes=yolcu}{slot=O} {turkish=uçabilir}{morphologicalAnalysis=uç+VERB+POS^DB+VERB+ABLE+AOR+A3SG}{metaMorphemes=uç+yAbil+Hr}{slot=O}

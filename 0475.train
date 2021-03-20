@@ -1,1 +1,1 @@
-{turkish=D9S'e}{slot=B-aircraft_code} {turkish=kaç}{slot=O} {turkish=yolcu}{slot=O} {turkish=sığar}{slot=O}
+{turkish=D9S'e}{morphologicalAnalysis=D9S'e+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=D9S'e}{slot=B-aircraft_code} {turkish=kaç}{morphologicalAnalysis=kaç+ADJ}{metaMorphemes=kaç}{slot=O} {turkish=yolcu}{morphologicalAnalysis=yolcu+NOUN+A3SG+PNON+NOM}{metaMorphemes=yolcu}{slot=O} {turkish=sığar}{morphologicalAnalysis=sığ+VERB+POS+AOR+A3SG}{metaMorphemes=sığ+Ar}{slot=O}

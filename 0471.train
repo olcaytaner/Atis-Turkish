@@ -1,1 +1,1 @@
-{turkish=Bir}{slot=O} {turkish=733'ün}{slot=B-aircraft_code} {turkish=kapasitesi}{slot=O} {turkish=nedir}{slot=O}
+{turkish=Bir}{morphologicalAnalysis=bir+ADJ}{metaMorphemes=bir}{slot=O} {turkish=733'ün}{morphologicalAnalysis=733+NUM+CARD^DB+NOUN+ZERO+A3SG+P2SG+NOM}{metaMorphemes=733+'+Hn}{slot=B-aircraft_code} {turkish=kapasitesi}{morphologicalAnalysis=kapasite+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kapasite+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
