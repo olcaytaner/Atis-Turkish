@@ -1,1 +1,1 @@
-{turkish=twa}{slot=B-airline_code} {turkish=hangi}{slot=O} {turkish=uçakları}{slot=O} {turkish=kullanıyor}{slot=O}
+{turkish=TWA}{morphologicalAnalysis=twa+NOUN+A3SG+PNON+NOM}{metaMorphemes=twa}{slot=B-airline_code} {turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=uçakları}{morphologicalAnalysis=uçak+NOUN+A3PL+P3SG+NOM}{metaMorphemes=uçak+lAr+sH}{slot=O} {turkish=kullanıyor}{morphologicalAnalysis=kullan+VERB+POS+PROG1+A3SG}{metaMorphemes=kullan+Hyor}{slot=O}

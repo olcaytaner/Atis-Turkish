@@ -1,1 +1,1 @@
-{turkish=bwi}{slot=B-airport_code} {turkish=washington'da}{slot=B-city_name} {turkish=mı}{slot=O}
+{turkish=bwi}{morphologicalAnalysis=bwi+NOUN+A3SG+PNON+NOM}{metaMorphemes=bwi}{slot=B-airport_code} {turkish=Washington'da}{morphologicalAnalysis=washington'da+NOUN+A3SG+PNON+NOM}{metaMorphemes=washington'da}{slot=B-city_name} {turkish=mı}{morphologicalAnalysis=mı+QUES+PRES+A3SG}{metaMorphemes=mı}{slot=O}

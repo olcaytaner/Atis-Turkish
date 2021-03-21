@@ -1,1 +1,1 @@
-{turkish=Denver'de}{slot=B-city_name} {turkish=kara}{slot=O} {turkish=ulaşımı}{slot=O}
+{turkish=Denver'de}{morphologicalAnalysis=denver+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=denver+'DA}{slot=B-city_name} {turkish=kara}{morphologicalAnalysis=kara+NOUN+A3SG+PNON+NOM}{metaMorphemes=kara}{slot=O} {turkish=ulaşımı}{morphologicalAnalysis=ulaşım+NOUN+A3SG+PNON+ACC}{metaMorphemes=ulaşım+yH}{slot=O}

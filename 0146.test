@@ -1,1 +1,1 @@
-{turkish=ücret}{slot=O} {turkish=kodu}{slot=O} {turkish=qw}{slot=B-fare_basis_code} {turkish=nedir}{slot=O}
+{turkish=ücret}{morphologicalAnalysis=ücret+NOUN+A3SG+PNON+NOM}{metaMorphemes=ücret}{slot=O} {turkish=kodu}{morphologicalAnalysis=kod+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kod+sH}{slot=O} {turkish=QW}{morphologicalAnalysis=qw+NOUN+A3SG+PNON+ACC}{metaMorphemes=qw+yH}{slot=B-fare_basis_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

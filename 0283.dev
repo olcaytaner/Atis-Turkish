@@ -1,1 +1,1 @@
-{turkish=Kara}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=Dallas}{slot=B-city_name}
+{turkish=Kara}{morphologicalAnalysis=kara+NOUN+A3SG+PNON+NOM}{metaMorphemes=kara}{slot=O} {turkish=ulaşımı}{morphologicalAnalysis=ulaşım+NOUN+A3SG+PNON+ACC}{metaMorphemes=ulaşım+yH}{slot=O} {turkish=Dallas}{morphologicalAnalysis=dallas+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=dallas}{slot=B-city_name}

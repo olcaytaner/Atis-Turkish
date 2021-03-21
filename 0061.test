@@ -1,1 +1,1 @@
-{turkish=tpa}{slot=B-airport_code} {turkish=nedir}{slot=O}
+{turkish=TPA}{morphologicalAnalysis=tpa+NOUN+A3SG+PNON+NOM}{metaMorphemes=tpa}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

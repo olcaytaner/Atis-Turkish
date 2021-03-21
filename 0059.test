@@ -1,1 +1,1 @@
-{turkish=phl}{slot=B-airport_code} {turkish=nedir}{slot=O}
+{turkish=PHL}{morphologicalAnalysis=phl+NOUN+A3SG+PNON+ACC}{metaMorphemes=phl+yH}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
