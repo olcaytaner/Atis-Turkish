@@ -1,1 +1,1 @@
-{turkish=Newark'a}{slot=B-city_name} {turkish=tren}{slot=B-transport_type}
+{turkish=Newark'a}{morphologicalAnalysis=newark+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=newark+'yA}{slot=B-city_name} {turkish=tren}{morphologicalAnalysis=tren+NOUN+A3SG+PNON+NOM}{metaMorphemes=tren}{slot=B-transport_type}

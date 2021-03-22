@@ -1,1 +1,1 @@
-{turkish=73S}{slot=B-aircraft_code} {turkish=nedir}{slot=O}
+{turkish=73S}{morphologicalAnalysis=73S+NOUN+A3SG+PNON+NOM}{metaMorphemes=73S}{slot=B-aircraft_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

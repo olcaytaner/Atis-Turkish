@@ -1,1 +1,1 @@
-{turkish=dallas}{slot=B-city_name} {turkish=karayolu}{slot=O} {turkish=ulaşımı}{slot=O}
+{turkish=Dallas}{morphologicalAnalysis=dallas+NOUN+A3SG+PNON+NOM}{metaMorphemes=dallas}{slot=B-city_name} {turkish=karayolu}{morphologicalAnalysis=karayol+NOUN+A3SG+P3SG+NOM}{metaMorphemes=karayol+H}{slot=O} {turkish=ulaşımı}{morphologicalAnalysis=ulaşım+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ulaşım+sH}{slot=O}

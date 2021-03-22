@@ -1,1 +1,1 @@
-{turkish=yn}{slot=B-fare_basis_code} {turkish=kodu}{slot=O} {turkish=nedir}{slot=O}
+{turkish=yn}{morphologicalAnalysis=y+NOUN+A3SG+P2SG+ACC}{metaMorphemes=y+Hn+yH}{slot=B-fare_basis_code} {turkish=kodu}{morphologicalAnalysis=kod+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kod+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

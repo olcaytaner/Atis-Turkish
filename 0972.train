@@ -1,1 +1,1 @@
-{turkish=Bana}{slot=O} {turkish=m80}{slot=B-aircraft_code} {turkish=uçağından}{slot=O} {turkish=bahset}{slot=O}
+{turkish=Bana}{morphologicalAnalysis=ben+PRON+PERS+A1SG+PNON+DAT}{metaMorphemes=ben+yA}{slot=O} {turkish=m80}{morphologicalAnalysis=m80+NOUN+A3SG+PNON+NOM}{metaMorphemes=m80}{slot=B-aircraft_code} {turkish=uçağından}{morphologicalAnalysis=uçak+NOUN+A3SG+P3SG+ABL}{metaMorphemes=uçak+sH+nDAn}{slot=O} {turkish=bahset}{morphologicalAnalysis=bahset+VERB+POS+IMP+A2SG}{metaMorphemes=bahset}{slot=O}

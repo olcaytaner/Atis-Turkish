@@ -1,1 +1,1 @@
-{turkish=Atlanta'dan}{slot=B-fromloc.city_name} {turkish=uçuşlar}{slot=O} {turkish=lütfen}{slot=O}
+{turkish=Atlanta'dan}{morphologicalAnalysis=atlanta+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=atlanta+'DAn}{slot=B-fromloc.city_name} {turkish=uçuşlar}{morphologicalAnalysis=uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM}{metaMorphemes=uç+yHs+lAr}{slot=O} {turkish=lütfen}{morphologicalAnalysis=lütfen+ADV}{metaMorphemes=lütfen}{slot=O}

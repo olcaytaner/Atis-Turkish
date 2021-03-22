@@ -1,1 +1,1 @@
-{turkish=bana}{slot=O} {turkish=havayollarını}{slot=O} {turkish=göster}{slot=O}
+{turkish=bana}{morphologicalAnalysis=ben+NOUN+A3SG+PNON+DAT}{metaMorphemes=ben+yA}{slot=O} {turkish=havayollarını}{morphologicalAnalysis=havayol+NOUN+A3PL+P3PL+ACC}{metaMorphemes=havayol+lArH+nH}{slot=O} {turkish=göster}{morphologicalAnalysis=göster+VERB+POS+IMP+A2SG}{metaMorphemes=göster}{slot=O}

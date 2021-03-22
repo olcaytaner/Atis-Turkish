@@ -1,1 +1,1 @@
-{turkish=q}{slot=B-fare_basis_code} {turkish=ne}{slot=O} {turkish=demek}{slot=O}
+{turkish=q}{morphologicalAnalysis=q+NOUN+A3SG+PNON+ACC}{metaMorphemes=q+yH}{slot=B-fare_basis_code} {turkish=ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne}{slot=O} {turkish=demek}{morphologicalAnalysis=de+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=de+mAk}{slot=O}

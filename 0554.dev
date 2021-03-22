@@ -1,1 +1,1 @@
-{turkish=Washington'dan}{slot=B-fromloc.city_name} {turkish=Seattle'ye}{slot=B-toloc.city_name} {turkish=uçuşlar}{slot=O}
+{turkish=Washington'dan}{morphologicalAnalysis=washington+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=washington+'DAn}{slot=B-fromloc.city_name} {turkish=Seattle'ye}{morphologicalAnalysis=seattle+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=seattle+'yA}{slot=B-toloc.city_name} {turkish=uçuşlar}{morphologicalAnalysis=uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM}{metaMorphemes=uç+yHs+lAr}{slot=O}

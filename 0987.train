@@ -1,1 +1,1 @@
-{turkish=d10}{slot=B-aircraft_code} {turkish=kısaltması}{slot=O} {turkish=nedir}{slot=O}
+{turkish=d10}{morphologicalAnalysis=d10+NOUN+A3SG+PNON+NOM}{metaMorphemes=d10}{slot=B-aircraft_code} {turkish=kısaltması}{morphologicalAnalysis=kısaltma+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kısaltma+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

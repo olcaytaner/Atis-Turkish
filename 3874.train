@@ -1,1 +1,1 @@
-{turkish=Denver'den}{slot=B-fromloc.city_name} {turkish=başlıyorum}{slot=O}
+{turkish=Denver'den}{morphologicalAnalysis=denver+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=denver+'DAn}{slot=B-fromloc.city_name} {turkish=başlıyorum}{morphologicalAnalysis=başla+VERB+POS+PROG1+A1SG}{metaMorphemes=başla+Hyor+yHm}{slot=O}

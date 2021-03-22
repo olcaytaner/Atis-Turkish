@@ -1,1 +1,1 @@
-{turkish=Boston'dan}{slot=B-fromloc.city_name} {turkish=Dallas'a}{slot=B-toloc.city_name} {turkish=uçuyorum}{slot=O}
+{turkish=Boston'dan}{morphologicalAnalysis=boston+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=boston+'DAn}{slot=B-fromloc.city_name} {turkish=Dallas'a}{morphologicalAnalysis=dallas+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=dallas+'yA}{slot=B-toloc.city_name} {turkish=uçuyorum}{morphologicalAnalysis=uç+VERB+POS+PROG1+A1SG}{metaMorphemes=uç+Hyor+yHm}{slot=O}
