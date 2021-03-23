@@ -1,1 +1,1 @@
-{turkish=Denver'e}{slot=B-toloc.city_name} {turkish=hangi}{slot=O} {turkish=havayolları}{slot=O} {turkish=uçuyor}{slot=O}
+{turkish=Denver'e}{morphologicalAnalysis=denver+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=denver+'yA}{slot=B-toloc.city_name} {turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=havayolları}{morphologicalAnalysis=havayol+NOUN+A3PL+P3SG+NOM}{metaMorphemes=havayol+lAr+sH}{slot=O} {turkish=uçuyor}{morphologicalAnalysis=uç+VERB+POS+PROG1+A3SG}{metaMorphemes=uç+Hyor}{slot=O}

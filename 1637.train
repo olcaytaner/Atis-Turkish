@@ -1,1 +1,1 @@
-{turkish=wn}{slot=B-airline_code} {turkish=hangi}{slot=O} {turkish=havayoludur}{slot=O}
+{turkish=wn}{morphologicalAnalysis=wn+NOUN+A3SG+PNON+ACC}{metaMorphemes=wn+yH}{slot=B-airline_code} {turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=havayoludur}{morphologicalAnalysis=havayol+NOUN+A3SG+P3SG+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=havayol+H+DHr}{slot=O}

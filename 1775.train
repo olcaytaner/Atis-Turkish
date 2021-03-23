@@ -1,1 +1,1 @@
-{turkish=hangi}{slot=O} {turkish=havayolları}{slot=O} {turkish=var}{slot=O}
+{turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=havayolları}{morphologicalAnalysis=havayol+NOUN+A3PL+P3SG+NOM}{metaMorphemes=havayol+lAr+sH}{slot=O} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var}{slot=O}

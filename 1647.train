@@ -1,1 +1,1 @@
-{turkish=hp}{slot=B-airline_code} {turkish=havayolunu}{slot=O} {turkish=tanımla}{slot=O}
+{turkish=hp}{morphologicalAnalysis=hp+NOUN+A3SG+PNON+ACC}{metaMorphemes=hp+yH}{slot=B-airline_code} {turkish=havayolunu}{morphologicalAnalysis=havayol+NOUN+A3SG+P3SG+ACC}{metaMorphemes=havayol+H+nH}{slot=O} {turkish=tanımla}{morphologicalAnalysis=tanımla+VERB+POS+IMP+A2SG}{metaMorphemes=tanımla}{slot=O}

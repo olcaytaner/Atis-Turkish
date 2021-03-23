@@ -1,1 +1,1 @@
-{turkish=ff}{slot=B-airline_code} {turkish=havayolu}{slot=O} {turkish=hangisidir}{slot=O}
+{turkish=FF}{morphologicalAnalysis=FF+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=FF}{slot=B-airline_code} {turkish=havayolu}{morphologicalAnalysis=havayol+NOUN+A3SG+P3SG+NOM}{metaMorphemes=havayol+H}{slot=O} {turkish=hangisidir}{morphologicalAnalysis=hangi+PRON+QUESP+A3SG+P3SG+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=hangi+sH+DHr}{slot=O}
