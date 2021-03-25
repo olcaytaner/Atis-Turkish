@@ -1,1 +1,1 @@
-{turkish=AP}{slot=B-restriction_code} {turkish=57}{slot=I-restriction_code} {turkish=kısıtlaması}{slot=O} {turkish=nedir}{slot=O}
+{turkish=AP}{morphologicalAnalysis=ap+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=ap}{slot=B-restriction_code} {turkish=57}{morphologicalAnalysis=57+NUM+CARD}{metaMorphemes=57}{slot=I-restriction_code} {turkish=kısıtlaması}{morphologicalAnalysis=kısıtlama+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kısıtlama+sH}{slot=O} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

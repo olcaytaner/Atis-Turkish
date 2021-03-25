@@ -1,1 +1,1 @@
-{turkish=AP}{slot=B-restriction_code} {turkish=80}{slot=I-restriction_code} {turkish=kısıtlamasını}{slot=O} {turkish=açıkla}{slot=O}
+{turkish=AP}{morphologicalAnalysis=ap+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=ap}{slot=B-restriction_code} {turkish=80}{morphologicalAnalysis=80+NUM+CARD}{metaMorphemes=80}{slot=I-restriction_code} {turkish=kısıtlamasını}{morphologicalAnalysis=kısıtlama+NOUN+A3SG+P3SG+ACC}{metaMorphemes=kısıtlama+sH+nH}{slot=O} {turkish=açıkla}{morphologicalAnalysis=açıkla+VERB+POS+IMP+A2SG}{metaMorphemes=açıkla}{slot=O}

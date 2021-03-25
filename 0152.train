@@ -1,1 +1,1 @@
-{turkish=BWI'den}{slot=B-fromloc.airport_code} {turkish=Washington'a}{slot=B-toloc.city_name} {turkish=nasıl}{slot=O} {turkish=giderim}{slot=O}
+{turkish=BWI'den}{morphologicalAnalysis=bwı+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=bwı+'DAn}{slot=B-fromloc.airport_code} {turkish=Washington'a}{morphologicalAnalysis=washington+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=washington+'yA}{slot=B-toloc.city_name} {turkish=nasıl}{morphologicalAnalysis=nasıl+ADV}{metaMorphemes=nasıl}{slot=O} {turkish=giderim}{morphologicalAnalysis=git+VERB+POS+AOR+A1SG}{metaMorphemes=git+Ar+yHm}{slot=O}

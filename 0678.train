@@ -1,1 +1,1 @@
-{turkish=Kaç}{slot=O} {turkish=rezervasyon}{slot=O} {turkish=sınıfı}{slot=O} {turkish=vardır}{slot=O}
+{turkish=Kaç}{morphologicalAnalysis=kaç+ADJ}{metaMorphemes=kaç}{slot=O} {turkish=rezervasyon}{morphologicalAnalysis=rezervasyon+NOUN+A3SG+PNON+NOM}{metaMorphemes=rezervasyon}{slot=O} {turkish=sınıfı}{morphologicalAnalysis=sınıf+NOUN+A3SG+P3SG+NOM}{metaMorphemes=sınıf+sH}{slot=O} {turkish=vardır}{morphologicalAnalysis=var+ADJ^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=var+DHr}{slot=O}

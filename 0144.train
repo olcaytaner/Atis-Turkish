@@ -1,1 +1,1 @@
-{turkish=MCO}{slot=B-fromloc.airport_code} {turkish=havaalanı}{slot=O} {turkish=hangi}{slot=O} {turkish=şehirde}{slot=O}
+{turkish=MCO}{morphologicalAnalysis=MCO+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=MCO}{slot=B-fromloc.airport_code} {turkish=havaalanı}{morphologicalAnalysis=havaalan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=havaalan+H}{slot=O} {turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=şehirde}{morphologicalAnalysis=şehir+NOUN+A3SG+PNON+LOC}{metaMorphemes=şehir+DA}{slot=O}
