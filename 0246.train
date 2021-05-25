@@ -1,1 +1,1 @@
-{turkish=Boston'da}{slot=B-city_name} {turkish=limuzin}{slot=B-transport_type} {turkish=servisi}{slot=O} {turkish=fiyatı}{slot=O} {turkish=nedir}{slot=O}
+{turkish=Boston'da}{slot=B-city_name} {turkish=limuzin}{universalDependency=3$NMOD}{slot=B-transport_type} {turkish=servisi}{universalDependency=4$NMOD}{slot=O} {turkish=fiyatı}{slot=O} {turkish=nedir}{universalDependency=0$ROOT}{slot=O}

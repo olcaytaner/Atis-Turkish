@@ -1,1 +1,1 @@
-{turkish=Atlanta}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=şehir}{slot=O} {turkish=merkezi}{slot=O} {turkish=arasındaki}{slot=O} {turkish=karayolu}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}
+{turkish=Atlanta}{slot=B-fromloc.city_name} {turkish=ile}{slot=O} {turkish=şehir}{universalDependency=4$NMOD}{slot=O} {turkish=merkezi}{slot=O} {turkish=arasındaki}{slot=O} {turkish=karayolu}{universalDependency=7$NMOD}{slot=O} {turkish=ulaşımı}{slot=O} {turkish=ne}{slot=O} {turkish=kadar}{slot=O}
