@@ -1,1 +1,1 @@
-{turkish=New}{slot=B-city_name} {turkish=York}{slot=I-city_name} {turkish=havaalanları}{slot=O}
+{turkish=New}{morphologicalAnalysis=new+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=new}{slot=B-city_name} {turkish=York}{morphologicalAnalysis=york+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=york}{slot=I-city_name} {turkish=havaalanları}{morphologicalAnalysis=havaalan+NOUN+A3PL+P3SG+NOM}{metaMorphemes=havaalan+lAr+sH}{slot=O}

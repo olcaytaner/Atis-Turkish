@@ -1,1 +1,1 @@
-{turkish=MCO}{slot=B-airport_code} {turkish=ne}{slot=O} {turkish=demek}{slot=O}
+{turkish=MCO}{morphologicalAnalysis=MCO+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=MCO}{slot=B-airport_code} {turkish=ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne}{slot=O} {turkish=demek}{morphologicalAnalysis=de+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM}{metaMorphemes=de+mAk}{slot=O}

@@ -1,1 +1,1 @@
-{turkish=EWR}{slot=B-airport_code} {turkish=nedir}{slot=O}
+{turkish=EWR}{morphologicalAnalysis=EWR+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=EWR}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}

@@ -1,1 +1,1 @@
-{turkish=Orlando'daki}{slot=B-city_name} {turkish=havaalanı}{slot=O} {turkish=hangisi}{slot=O}
+{turkish=Orlando'daki}{morphologicalAnalysis=orlando+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL}{metaMorphemes=orlando+'DA+ki}{slot=B-city_name} {turkish=havaalanı}{morphologicalAnalysis=havaalan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=havaalan+H}{slot=O} {turkish=hangisi}{morphologicalAnalysis=hangi+PRON+QUESP+A3SG+P3SG+NOM}{metaMorphemes=hangi+sH}{slot=O}

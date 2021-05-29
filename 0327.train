@@ -1,1 +1,1 @@
-{turkish=LAX}{slot=B-airport_code} {turkish=ne}{slot=O} {turkish=anlama}{slot=O} {turkish=geliyor}{slot=O}
+{turkish=LAX}{morphologicalAnalysis=LAX+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=LAX}{slot=B-airport_code} {turkish=ne}{morphologicalAnalysis=ne+ADJ}{metaMorphemes=ne}{slot=O} {turkish=anlama}{morphologicalAnalysis=anlam+NOUN+A3SG+PNON+DAT}{metaMorphemes=anlam+yA}{slot=O} {turkish=geliyor}{morphologicalAnalysis=gel+VERB+POS+PROG1+A3SG}{metaMorphemes=gel+Hyor}{slot=O}

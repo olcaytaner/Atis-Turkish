@@ -1,1 +1,1 @@
-{turkish=LA}{morphologicalAnalysis=la+NOUN+A3SG+PNON+NOM}{metaMorphemes=la}{slot=B-city_name} {turkish=listele}{morphologicalAnalysis=listele+VERB+POS+IMP+A2SG}{metaMorphemes=listele}{slot=O}
+{turkish=LA}{morphologicalAnalysis=la+NOUN+A3SG+PNON+NOM}{metaMorphemes=la}{universalDependency=2$OBJ}{slot=B-city_name} {turkish=listele}{morphologicalAnalysis=listele+VERB+POS+IMP+A2SG}{metaMorphemes=listele}{universalDependency=0$ROOT}{slot=O}

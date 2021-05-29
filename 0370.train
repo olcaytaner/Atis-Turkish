@@ -1,1 +1,1 @@
-{turkish=Hangi}{slot=O} {turkish=havaalanı}{slot=O} {turkish=Tampa'da}{slot=B-city_name}
+{turkish=Hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=havaalanı}{morphologicalAnalysis=havaalan+NOUN+A3SG+P3SG+NOM}{metaMorphemes=havaalan+H}{slot=O} {turkish=Tampa'da}{morphologicalAnalysis=tampa+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=tampa+'DA}{slot=B-city_name}

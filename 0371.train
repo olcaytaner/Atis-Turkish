@@ -1,1 +1,1 @@
-{turkish=Havaalanlarının}{slot=O} {turkish=isimleri}{slot=O}
+{turkish=Havaalanlarının}{morphologicalAnalysis=havaalan+NOUN+A3PL+P3SG+GEN}{metaMorphemes=havaalan+lAr+sH+nHn}{slot=O} {turkish=isimleri}{morphologicalAnalysis=isim+NOUN+A3SG+P3PL+NOM}{metaMorphemes=isim+lArH}{slot=O}
