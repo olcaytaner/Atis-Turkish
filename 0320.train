@@ -1,1 +1,1 @@
-{turkish=CVG}{morphologicalAnalysis=CVG+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=CVG}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
+{turkish=CVG}{morphologicalAnalysis=CVG+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=CVG}{universalDependency=2$NSUBJ}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{universalDependency=0$ROOT}{slot=O}
