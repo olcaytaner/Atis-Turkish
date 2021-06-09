@@ -1,1 +1,1 @@
-{turkish=ua}{morphologicalAnalysis=ua+NOUN+A3SG+PNON+NOM}{metaMorphemes=ua}{slot=B-airline_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
+{turkish=ua}{morphologicalAnalysis=ua+NOUN+A3SG+PNON+NOM}{metaMorphemes=ua}{universalDependency=2$NSUBJ}{slot=B-airline_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
