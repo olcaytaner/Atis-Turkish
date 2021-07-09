@@ -1,1 +1,1 @@
-{turkish=tek}{morphologicalAnalysis=tek+ADJ}{metaMorphemes=tek}{slot=B-round_trip} {turkish=yön}{morphologicalAnalysis=yön+NOUN+A3SG+PNON+NOM}{metaMorphemes=yön}{slot=I-round_trip}
+{turkish=tek}{morphologicalAnalysis=tek+ADJ}{metaMorphemes=tek}{universalDependency=0$ROOT}{slot=B-round_trip} {turkish=yön}{morphologicalAnalysis=yön+NOUN+A3SG+PNON+NOM}{metaMorphemes=yön}{universalDependency=1$COMPOUND}{slot=I-round_trip}
