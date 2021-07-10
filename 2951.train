@@ -1,1 +1,1 @@
-{turkish=bunların}{slot=O} {turkish=maliyeti}{slot=O} {turkish=ne}{slot=O}
+{turkish=bunların}{morphologicalAnalysis=bu+PRON+DEMONSP+A3PL+PNON+GEN}{metaMorphemes=bu+nlAr+nHn}{universalDependency=2$NMOD}{slot=O} {turkish=maliyeti}{morphologicalAnalysis=maliyet+NOUN+A3SG+P3SG+NOM}{metaMorphemes=maliyet+sH}{universalDependency=3$NSUBJ}{slot=O} {turkish=ne}{morphologicalAnalysis=ne+ADV}{metaMorphemes=ne}{universalDependency=0$ROOT}{slot=O}
