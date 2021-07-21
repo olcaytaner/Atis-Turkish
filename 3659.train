@@ -1,1 +1,1 @@
-{turkish=Cumartesi}{slot=B-depart_date.day_name} {turkish=Pittsburgh'tan}{slot=B-fromloc.city_name} {turkish=Boston'a}{slot=B-toloc.city_name}
+{turkish=Cumartesi}{morphologicalAnalysis=cumartesi+NOUN+A3SG+PNON+NOM}{metaMorphemes=cumartesi}{slot=B-depart_date.day_name} {turkish=Pittsburgh'tan}{morphologicalAnalysis=pittsburgh+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=pittsburgh+'DAn}{slot=B-fromloc.city_name} {turkish=Boston'a}{morphologicalAnalysis=boston+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=boston+'yA}{slot=B-toloc.city_name}

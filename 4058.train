@@ -1,1 +1,1 @@
-{turkish=Ontario'dan}{slot=B-fromloc.city_name} {turkish=hangi}{slot=O} {turkish=uçuşlarınız}{slot=O} {turkish=var}{slot=O}
+{turkish=Ontario'dan}{morphologicalAnalysis=ontario+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=ontario+'DAn}{slot=B-fromloc.city_name} {turkish=hangi}{morphologicalAnalysis=hangi+ADJ}{metaMorphemes=hangi}{slot=O} {turkish=uçuşlarınız}{morphologicalAnalysis=uç+VERB+POS^DB+NOUN+INF3+A3PL+P2PL+NOM}{metaMorphemes=uç+yHs+lAr+HnHz}{slot=O} {turkish=var}{morphologicalAnalysis=var+ADJ}{metaMorphemes=var}{slot=O}
