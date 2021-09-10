@@ -1,1 +1,1 @@
-{turkish=Montreal'dan}{slot=B-fromloc.city_name} {turkish=Las}{slot=B-toloc.city_name} {turkish=Vegas'a}{slot=I-toloc.city_name}
+{turkish=Montreal'dan}{morphologicalAnalysis=montreal+NOUN+PROP+A3SG+PNON+ABL}{metaMorphemes=montreal+'DAn}{universalDependency=2$NMOD}{slot=B-fromloc.city_name} {turkish=Las}{morphologicalAnalysis=Las+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Las}{universalDependency=0$ROOT}{slot=B-toloc.city_name} {turkish=Vegas'a}{morphologicalAnalysis=vegas+NOUN+PROP+A3SG+PNON+DAT}{metaMorphemes=vegas+'yA}{universalDependency=2$FLAT}{slot=I-toloc.city_name}
