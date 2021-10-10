@@ -1,1 +1,1 @@
-{turkish=D9S}{morphologicalAnalysis=d9s+NOUN+A3SG+PNON+ACC}{metaMorphemes=d9s+yH}{slot=B-aircraft_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{slot=O}
+{turkish=D9S}{morphologicalAnalysis=d9s+NOUN+A3SG+PNON+ACC}{metaMorphemes=d9s+yH}{universalDependency=2$NSUBJ}{slot=B-aircraft_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{universalDependency=0$ROOT}{slot=O}
