@@ -1,1 +1,1 @@
-{turkish=Houston}{morphologicalAnalysis=houston+NOUN+A3SG+PNON+NOM}{metaMorphemes=houston}{slot=B-city_name} {turkish=havaalanları}{morphologicalAnalysis=havaalan+NOUN+A3PL+P3SG+NOM}{metaMorphemes=havaalan+lAr+sH}{slot=O}
+{turkish=Houston}{morphologicalAnalysis=houston+NOUN+A3SG+PNON+NOM}{metaMorphemes=houston}{universalDependency=2$NMOD}{slot=B-city_name} {turkish=havaalanları}{morphologicalAnalysis=havaalan+NOUN+A3PL+P3SG+NOM}{metaMorphemes=havaalan+lAr+sH}{universalDependency=0$ROOT}{slot=O}

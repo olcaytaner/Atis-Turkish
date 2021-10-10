@@ -1,1 +1,1 @@
-{turkish=ff}{slot=B-airline_code} {turkish=kodu}{slot=O}
+{turkish=ff}{morphologicalAnalysis=ff+NOUN+A3SG+PNON+ACC}{metaMorphemes=ff+yH}{slot=B-airline_code} {turkish=kodu}{morphologicalAnalysis=kod+NOUN+A3SG+P3SG+NOM}{metaMorphemes=kod+sH}{slot=O}

@@ -1,1 +1,1 @@
-{turkish=uçuş}{slot=O} {turkish=boston'dan}{slot=B-fromloc.city_name} {turkish=başlayacak}{slot=O}
+{turkish=uçuş}{morphologicalAnalysis=uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM}{metaMorphemes=uç+yHs}{slot=O} {turkish=boston'dan}{morphologicalAnalysis=boston'dan+NOUN+A3SG+PNON+NOM}{metaMorphemes=boston'dan}{slot=B-fromloc.city_name} {turkish=başlayacak}{morphologicalAnalysis=başla+VERB+POS^DB+ADJ+FUTPART+PNON}{metaMorphemes=başla+yAcAk}{slot=O}

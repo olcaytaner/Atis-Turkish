@@ -1,1 +1,1 @@
-{turkish=st.}{slot=B-fromloc.city_name} {turkish=petersburg'dan}{slot=I-fromloc.city_name} {turkish=detroit'e}{slot=B-toloc.city_name}
+{turkish=st.}{morphologicalAnalysis=st.+NOUN+A3SG+PNON+NOM}{metaMorphemes=st.}{slot=B-fromloc.city_name} {turkish=petersburg'dan}{morphologicalAnalysis=petersburg'dan+NOUN+A3SG+PNON+NOM}{metaMorphemes=petersburg'dan}{slot=I-fromloc.city_name} {turkish=detroit'e}{morphologicalAnalysis=detroit'e+NOUN+A3SG+PNON+NOM}{metaMorphemes=detroit'e}{slot=B-toloc.city_name}

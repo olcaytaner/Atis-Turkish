@@ -1,1 +1,1 @@
-{turkish=Baltimore'de}{slot=B-city_name} {turkish=kara}{slot=O} {turkish=ulaşımı}{slot=O}
+{turkish=Baltimore'de}{morphologicalAnalysis=baltimore+NOUN+PROP+A3SG+PNON+LOC}{metaMorphemes=baltimore+'DA}{slot=B-city_name} {turkish=kara}{morphologicalAnalysis=kara+ADJ}{metaMorphemes=kara}{slot=O} {turkish=ulaşımı}{morphologicalAnalysis=ulaşım+NOUN+A3SG+P3SG+NOM}{metaMorphemes=ulaşım+sH}{slot=O}

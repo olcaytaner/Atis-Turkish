@@ -1,1 +1,1 @@
-{turkish=Boston-Washington}{slot=O} {turkish=hakkında}{slot=O} {turkish=bilgi}{slot=O} {turkish=istiyorum}{slot=O}
+{turkish=Boston-Washington}{morphologicalAnalysis=Boston-Washington+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Boston-Washington}{slot=O} {turkish=hakkında}{morphologicalAnalysis=hakkında+ADV}{metaMorphemes=hakkında}{slot=O} {turkish=bilgi}{morphologicalAnalysis=bilgi+NOUN+A3SG+PNON+NOM}{metaMorphemes=bilgi}{slot=O} {turkish=istiyorum}{morphologicalAnalysis=iste+VERB+POS+PROG1+A1SG}{metaMorphemes=iste+Hyor+yHm}{slot=O}

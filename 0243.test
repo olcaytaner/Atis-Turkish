@@ -1,1 +1,1 @@
-{turkish=dl}{slot=B-airline_code} {turkish=anlamına}{slot=O} {turkish=gelen}{slot=O} {turkish=havayolu}{slot=O}
+{turkish=dl}{morphologicalAnalysis=dl+NOUN+A3SG+PNON+ACC}{metaMorphemes=dl+yH}{slot=B-airline_code} {turkish=anlamına}{morphologicalAnalysis=anlam+NOUN+A3SG+P3SG+DAT}{metaMorphemes=anlam+sH+nA}{slot=O} {turkish=gelen}{morphologicalAnalysis=gel+VERB+POS^DB+ADJ+PRESPART}{metaMorphemes=gel+yAn}{slot=O} {turkish=havayolu}{morphologicalAnalysis=havayol+NOUN+A3SG+P3SG+NOM}{metaMorphemes=havayol+H}{slot=O}
