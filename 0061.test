@@ -1,1 +1,1 @@
-{turkish=TPA}{morphologicalAnalysis=tpa+NOUN+A3SG+PNON+NOM}{metaMorphemes=tpa}{universalDependency=2$NSUBJ}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{universalDependency=0$ROOT}{slot=O}
+{turkish=TPA}{morphologicalAnalysis=TPA+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=TPA}{universalDependency=2$NSUBJ}{slot=B-airport_code} {turkish=nedir}{morphologicalAnalysis=ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG}{metaMorphemes=ne+DHr}{universalDependency=0$ROOT}{slot=O}
